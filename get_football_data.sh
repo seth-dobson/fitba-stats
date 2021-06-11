@@ -12,6 +12,6 @@ mv src_football_data_scottish_premiership_match_results_1920.csv ~/fitba-stats/d
 rm SC0.csv
 
 wget https://www.football-data.co.uk/mmz4281/1819/SC0.csv
-cut -d , -f 1-24 SC0.csv > src_football_data_scottish_premiership_match_results_1819.csv
+cut -d , -f 1-23 SC0.csv > src_football_data_scottish_premiership_match_results_1819.csv
 mv src_football_data_scottish_premiership_match_results_1819.csv ~/fitba-stats/dbt/data
 rm SC0.csv

@@ -1,0 +1,229 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST
+04/08/12,Celtic,Aberdeen,1,0,H,0,0,D,9,5,5,2
+04/08/12,Hearts,St Johnstone,2,0,H,1,0,H,18,5,7,3
+04/08/12,Kilmarnock,Dundee,0,0,D,0,0,D,16,4,8,1
+04/08/12,Ross County,Motherwell,0,0,D,0,0,D,6,6,1,2
+04/08/12,St Mirren,Inverness C,2,2,D,1,0,H,13,11,5,7
+05/08/12,Dundee United,Hibernian,3,0,H,1,0,H,17,6,11,2
+11/08/12,Aberdeen,Ross County,0,0,D,0,0,D,11,4,5,1
+11/08/12,Dundee,St Mirren,0,2,A,0,1,A,7,4,1,4
+11/08/12,Inverness C,Kilmarnock,1,1,D,1,1,D,11,12,7,5
+11/08/12,Motherwell,St Johnstone,1,1,D,0,0,D,10,15,6,6
+12/08/12,Hibernian,Hearts,1,1,D,1,1,D,10,10,6,3
+18/08/12,Hearts,Inverness C,2,2,D,2,0,H,7,8,3,1
+18/08/12,Kilmarnock,Motherwell,1,2,A,1,2,A,8,12,6,3
+18/08/12,Ross County,Celtic,1,1,D,0,0,D,7,19,4,10
+18/08/12,St Johnstone,Aberdeen,1,2,A,0,1,A,9,8,5,4
+18/08/12,St Mirren,Hibernian,1,2,A,0,1,A,13,9,6,2
+19/08/12,Dundee United,Dundee,3,0,H,3,0,H,11,6,8,4
+25/08/12,Dundee,Ross County,0,1,A,0,0,D,10,6,3,3
+25/08/12,Hibernian,St Johnstone,2,0,H,1,0,H,12,10,7,4
+25/08/12,Inverness C,Celtic,2,4,A,0,2,A,11,15,9,6
+25/08/12,Kilmarnock,Dundee United,3,1,H,0,0,D,8,7,6,2
+26/08/12,Aberdeen,Hearts,0,0,D,0,0,D,7,3,2,1
+26/08/12,Motherwell,St Mirren,1,1,D,1,0,H,5,17,2,8
+01/09/12,Aberdeen,St Mirren,0,0,D,0,0,D,12,3,3,1
+01/09/12,Celtic,Hibernian,2,2,D,1,0,H,14,4,6,2
+01/09/12,Ross County,Kilmarnock,0,0,D,0,0,D,10,10,5,5
+01/09/12,St Johnstone,Dundee United,0,0,D,0,0,D,7,6,2,2
+02/09/12,Hearts,Dundee,0,1,A,0,1,A,8,3,3,2
+02/09/12,Motherwell,Inverness C,4,1,H,2,1,H,11,14,6,9
+14/09/12,Dundee United,Ross County,0,0,D,0,0,D,14,4,7,0
+15/09/12,Dundee,Motherwell,1,2,A,1,0,H,8,10,4,7
+15/09/12,Hibernian,Kilmarnock,2,1,H,2,1,H,11,11,6,3
+15/09/12,Inverness C,Aberdeen,1,1,D,0,0,D,4,2,2,1
+15/09/12,St Johnstone,Celtic,2,1,H,1,1,D,13,12,9,5
+15/09/12,St Mirren,Hearts,2,0,H,1,0,H,4,5,4,0
+22/09/12,Celtic,Dundee,2,0,H,1,0,H,23,6,11,2
+22/09/12,Dundee United,Hearts,0,3,A,0,2,A,9,8,3,5
+22/09/12,Hibernian,Inverness C,2,2,D,2,1,H,14,8,8,6
+22/09/12,Kilmarnock,St Mirren,3,1,H,1,0,H,11,20,7,11
+22/09/12,Ross County,St Johnstone,1,2,A,0,1,A,20,6,8,3
+23/09/12,Aberdeen,Motherwell,3,3,D,1,1,D,12,19,8,11
+29/09/12,Aberdeen,Hibernian,2,1,H,1,1,D,7,4,4,3
+29/09/12,Dundee,St Johnstone,1,3,A,1,2,A,3,5,3,3
+29/09/12,Hearts,Kilmarnock,1,3,A,0,1,A,12,6,2,3
+29/09/12,Inverness C,Dundee United,4,0,H,2,0,H,7,10,6,2
+29/09/12,Motherwell,Celtic,0,2,A,0,2,A,3,18,0,12
+29/09/12,St Mirren,Ross County,5,4,H,1,2,A,9,4,7,4
+05/10/12,Inverness C,Ross County,3,1,H,2,0,H,9,11,6,6
+06/10/12,Hibernian,Dundee,3,0,H,1,0,H,14,5,7,2
+06/10/12,Kilmarnock,Aberdeen,1,3,A,1,0,H,8,13,6,6
+06/10/12,St Johnstone,St Mirren,2,1,H,2,0,H,9,12,7,6
+07/10/12,Celtic,Hearts,1,0,H,1,0,H,14,7,5,4
+19/10/12,Dundee,Inverness C,1,4,A,1,2,A,8,3,6,2
+20/10/12,Dundee United,Aberdeen,1,1,D,1,0,H,12,11,4,5
+20/10/12,Ross County,Hibernian,3,2,H,2,2,D,11,10,6,4
+20/10/12,St Johnstone,Kilmarnock,2,1,H,1,0,H,15,12,8,5
+20/10/12,St Mirren,Celtic,0,5,A,0,4,A,9,25,4,14
+21/10/12,Hearts,Motherwell,1,0,H,1,0,H,13,8,3,5
+26/10/12,Motherwell,Hibernian,0,4,A,0,1,A,14,7,7,4
+27/10/12,Aberdeen,Dundee,2,0,H,1,0,H,8,5,3,1
+27/10/12,Celtic,Kilmarnock,0,2,A,0,1,A,7,7,2,3
+27/10/12,Hearts,Ross County,2,2,D,1,0,H,19,5,8,5
+27/10/12,Inverness C,St Johnstone,1,1,D,0,0,D,8,7,4,1
+27/10/12,St Mirren,Dundee United,0,1,A,0,0,D,5,3,1,1
+03/11/12,Dundee,Hearts,1,0,H,1,0,H,4,5,3,3
+03/11/12,Hibernian,St Mirren,2,1,H,1,1,D,10,7,4,5
+03/11/12,Kilmarnock,Inverness C,1,2,A,0,1,A,12,12,7,7
+03/11/12,Ross County,Aberdeen,2,1,H,1,0,H,5,10,2,4
+03/11/12,St Johnstone,Motherwell,1,3,A,0,2,A,9,9,5,7
+04/11/12,Dundee United,Celtic,2,2,D,0,0,D,3,7,2,3
+07/11/12,Motherwell,Dundee United,0,1,A,0,0,D,14,13,3,5
+10/11/12,Inverness C,Hearts,1,1,D,1,0,H,7,15,5,9
+10/11/12,Kilmarnock,Ross County,3,0,H,0,0,D,11,6,7,1
+10/11/12,Motherwell,Dundee,1,1,D,1,1,D,18,7,11,4
+10/11/12,St Mirren,Aberdeen,1,4,A,0,2,A,12,11,5,7
+11/11/12,Celtic,St Johnstone,1,1,D,0,0,D,13,2,3,2
+11/11/12,Hibernian,Dundee United,2,1,H,1,0,H,8,9,5,4
+16/11/12,Dundee United,Kilmarnock,3,3,D,0,2,A,5,12,3,5
+17/11/12,Aberdeen,Celtic,0,2,A,0,0,D,6,11,2,3
+17/11/12,Dundee,Hibernian,3,1,H,1,0,H,15,10,10,6
+17/11/12,Hearts,St Mirren,1,0,H,0,0,D,9,6,3,3
+17/11/12,St Johnstone,Ross County,1,1,D,0,0,D,8,7,3,2
+18/11/12,Inverness C,Motherwell,1,5,A,0,2,A,9,16,5,10
+24/11/12,Celtic,Inverness C,0,1,A,0,0,D,11,7,3,3
+24/11/12,Hibernian,Aberdeen,0,1,A,0,0,D,16,8,3,2
+24/11/12,Kilmarnock,St Johnstone,1,2,A,0,1,A,6,16,3,9
+24/11/12,Motherwell,Hearts,0,0,D,0,0,D,9,8,5,5
+24/11/12,Ross County,Dundee United,1,2,A,0,0,D,8,11,5,8
+24/11/12,St Mirren,Dundee,3,1,H,1,0,H,14,5,7,2
+27/11/12,Aberdeen,Inverness C,2,3,A,1,1,D,10,7,5,3
+27/11/12,Dundee United,Motherwell,1,2,A,1,2,A,16,8,10,5
+27/11/12,Ross County,St Mirren,0,0,D,0,0,D,8,13,1,6
+28/11/12,Hearts,Celtic,0,4,A,0,3,A,13,9,9,5
+28/11/12,St Johnstone,Hibernian,0,1,A,0,0,D,12,5,10,1
+08/12/12,Hearts,Aberdeen,2,0,H,1,0,H,11,11,7,4
+08/12/12,Inverness C,Hibernian,3,0,H,1,0,H,9,1,7,1
+08/12/12,Kilmarnock,Celtic,1,3,A,0,1,A,5,19,3,10
+08/12/12,Motherwell,Ross County,3,2,H,1,1,D,8,9,5,6
+08/12/12,St Mirren,St Johnstone,1,1,D,0,1,A,16,7,4,2
+09/12/12,Dundee,Dundee United,0,3,A,0,1,A,4,8,2,5
+15/12/12,Aberdeen,Kilmarnock,0,2,A,0,1,A,11,5,2,2
+15/12/12,Celtic,St Mirren,2,0,H,1,0,H,17,3,10,1
+15/12/12,Dundee United,Inverness C,4,4,D,3,2,H,3,5,2,5
+15/12/12,Hibernian,Motherwell,2,3,A,1,0,H,9,12,5,5
+15/12/12,Ross County,Dundee,1,1,D,0,1,A,12,9,7,4
+15/12/12,St Johnstone,Hearts,2,2,D,1,2,A,8,10,6,4
+21/12/12,St Mirren,Motherwell,2,1,H,2,0,H,17,18,10,12
+22/12/12,Aberdeen,St Johnstone,2,0,H,0,0,D,19,4,10,1
+22/12/12,Celtic,Ross County,4,0,H,0,0,D,13,7,9,4
+22/12/12,Inverness C,Dundee,4,1,H,2,1,H,8,8,5,3
+23/12/12,Hearts,Dundee United,2,1,H,2,0,H,9,16,4,7
+23/12/12,Kilmarnock,Hibernian,1,1,D,1,1,D,11,10,8,6
+26/12/12,Dundee,Celtic,0,2,A,0,1,A,16,10,8,7
+26/12/12,Dundee United,St Johnstone,1,1,D,1,0,H,3,7,1,5
+26/12/12,Hibernian,Ross County,0,1,A,0,0,D,12,3,4,3
+26/12/12,Inverness C,St Mirren,2,2,D,1,1,D,17,10,7,2
+26/12/12,Kilmarnock,Hearts,1,0,H,1,0,H,3,10,1,4
+26/12/12,Motherwell,Aberdeen,4,1,H,3,1,H,12,13,7,6
+29/12/12,Dundee,Aberdeen,1,3,A,0,0,D,11,12,4,7
+29/12/12,Hibernian,Celtic,1,0,H,1,0,H,6,14,2,7
+29/12/12,Motherwell,Kilmarnock,2,2,D,0,1,A,20,7,13,6
+29/12/12,St Johnstone,Inverness C,0,0,D,0,0,D,10,4,4,1
+30/12/12,Dundee United,St Mirren,3,4,A,2,1,H,9,7,5,6
+02/01/13,Aberdeen,Dundee United,2,2,D,1,2,A,13,7,7,3
+02/01/13,Celtic,Motherwell,1,0,H,0,0,D,18,8,10,2
+02/01/13,St Johnstone,Dundee,1,0,H,1,0,H,6,5,2,1
+02/01/13,St Mirren,Kilmarnock,1,1,D,0,1,A,14,4,8,2
+03/01/13,Hearts,Hibernian,0,0,D,0,0,D,7,6,2,2
+19/01/13,Celtic,Hearts,4,1,H,2,0,H,13,3,9,2
+19/01/13,Hibernian,Dundee,1,1,D,0,1,A,14,9,7,5
+19/01/13,Inverness C,Aberdeen,3,0,H,0,0,D,11,9,6,4
+19/01/13,Kilmarnock,Dundee United,2,3,A,1,1,D,7,7,3,4
+19/01/13,St Mirren,Ross County,1,4,A,0,1,A,8,15,5,11
+20/01/13,Motherwell,St Johnstone,3,2,H,2,0,H,8,18,6,9
+22/01/13,Celtic,Dundee United,4,0,H,2,0,H,22,6,10,1
+26/01/13,Dundee United,Ross County,1,1,D,0,0,D,10,7,3,5
+27/01/13,Aberdeen,Hibernian,0,0,D,0,0,D,14,3,3,3
+27/01/13,Dundee,Kilmarnock,0,0,D,0,0,D,4,4,2,3
+30/01/13,Celtic,Kilmarnock,4,1,H,1,0,H,20,6,10,4
+30/01/13,Hearts,Dundee,1,0,H,0,0,D,24,3,13,0
+30/01/13,Ross County,Hibernian,1,0,H,1,0,H,8,6,4,4
+30/01/13,St Johnstone,Aberdeen,3,1,H,1,1,D,7,11,5,5
+30/01/13,St Mirren,Inverness C,2,1,H,1,1,D,10,8,7,7
+02/02/13,Ross County,Hearts,2,2,D,1,1,D,9,12,5,7
+08/02/13,Dundee,Ross County,0,2,A,0,0,D,7,6,5,3
+09/02/13,Aberdeen,St Mirren,0,0,D,0,0,D,7,9,3,6
+09/02/13,Dundee United,Hearts,3,1,H,1,0,H,3,8,1,4
+09/02/13,Inverness C,Celtic,1,3,A,1,1,D,7,12,4,7
+09/02/13,Kilmarnock,Motherwell,2,0,H,1,0,H,9,13,4,7
+11/02/13,Hibernian,St Johnstone,1,3,A,0,2,A,8,9,1,5
+13/02/13,Inverness C,Kilmarnock,1,1,D,1,0,H,13,2,7,1
+15/02/13,Aberdeen,Dundee,1,0,H,1,0,H,7,9,3,4
+16/02/13,Celtic,Dundee United,6,2,H,3,1,H,20,5,7,4
+16/02/13,Hearts,Kilmarnock,0,3,A,0,1,A,11,6,7,5
+16/02/13,Motherwell,Inverness C,3,0,H,1,0,H,14,9,4,2
+16/02/13,Ross County,St Johnstone,1,0,H,1,0,H,8,13,4,7
+16/02/13,St Mirren,Hibernian,0,1,A,0,0,D,2,6,1,2
+19/02/13,Motherwell,Dundee United,0,1,A,0,1,A,11,10,6,7
+19/02/13,St Johnstone,Celtic,1,1,D,0,1,A,6,12,3,8
+23/02/13,Hearts,Inverness C,2,3,A,0,1,A,13,5,4,2
+23/02/13,Kilmarnock,Aberdeen,1,1,D,1,1,D,8,14,4,6
+23/02/13,Ross County,Motherwell,3,0,H,1,0,H,11,6,7,3
+23/02/13,St Johnstone,St Mirren,1,0,H,0,0,D,11,7,3,2
+24/02/13,Celtic,Dundee,5,0,H,1,0,H,22,7,9,2
+24/02/13,Dundee United,Hibernian,2,2,D,1,1,D,8,11,2,6
+26/02/13,Aberdeen,Ross County,0,1,A,0,0,D,10,7,6,6
+27/02/13,Dundee,St Johnstone,2,2,D,1,1,D,10,7,5,4
+27/02/13,Hibernian,Kilmarnock,2,2,D,0,0,D,12,13,4,7
+27/02/13,Inverness C,Dundee United,0,0,D,0,0,D,9,9,7,2
+27/02/13,Motherwell,Celtic,2,1,H,1,0,H,6,10,3,5
+27/02/13,St Mirren,Hearts,2,0,H,2,0,H,4,13,2,8
+02/03/13,Hearts,Motherwell,1,2,A,0,2,A,21,4,9,3
+02/03/13,Ross County,Inverness C,0,0,D,0,0,D,8,5,3,1
+05/03/13,Hearts,St Johnstone,2,0,H,1,0,H,12,5,5,4
+06/03/13,Dundee,St Mirren,2,1,H,0,1,A,12,15,4,9
+09/03/13,Aberdeen,Motherwell,0,0,D,0,0,D,13,7,1,2
+09/03/13,Dundee,Inverness C,1,1,D,1,0,H,6,12,3,5
+09/03/13,Ross County,Celtic,3,2,H,2,2,D,11,12,4,7
+09/03/13,St Johnstone,Kilmarnock,2,0,H,0,0,D,9,4,6,3
+09/03/13,St Mirren,Dundee United,0,0,D,0,0,D,18,10,9,2
+10/03/13,Hibernian,Hearts,0,0,D,0,0,D,7,12,3,6
+15/03/13,Motherwell,Hibernian,4,1,H,0,1,A,13,8,10,5
+16/03/13,Celtic,Aberdeen,4,3,H,1,1,D,18,6,13,5
+16/03/13,Inverness C,Ross County,2,1,H,1,1,D,5,8,3,3
+17/03/13,Dundee United,Dundee,1,1,D,0,0,D,21,5,9,3
+30/03/13,Aberdeen,Hearts,2,0,H,1,0,H,13,13,8,7
+30/03/13,Dundee,Motherwell,0,3,A,0,1,A,4,5,1,5
+30/03/13,Hibernian,Inverness C,1,2,A,0,0,D,9,9,4,5
+30/03/13,Ross County,Kilmarnock,0,1,A,0,1,A,16,5,7,2
+31/03/13,St Mirren,Celtic,1,1,D,0,1,A,10,5,3,2
+01/04/13,St Johnstone,Dundee United,1,1,D,0,1,A,19,5,9,2
+03/04/13,Kilmarnock,St Mirren,1,1,D,0,1,A,11,9,4,3
+05/04/13,Inverness C,St Johnstone,0,0,D,0,0,D,9,13,6,5
+06/04/13,Celtic,Hibernian,3,0,H,1,0,H,8,1,8,1
+06/04/13,Dundee United,Aberdeen,1,0,H,0,0,D,6,6,3,4
+06/04/13,Hearts,Ross County,4,2,H,0,1,A,15,15,5,9
+06/04/13,Kilmarnock,Dundee,1,2,A,0,1,A,6,6,2,3
+06/04/13,Motherwell,St Mirren,2,2,D,1,1,D,16,5,7,4
+19/04/13,Dundee United,Motherwell,1,3,A,0,2,A,13,9,7,6
+20/04/13,Kilmarnock,Hearts,0,1,A,0,1,A,9,12,3,3
+20/04/13,St Mirren,Dundee,1,2,A,0,1,A,10,12,7,4
+21/04/13,Celtic,Inverness C,4,1,H,0,0,D,19,3,10,3
+21/04/13,St Johnstone,Ross County,2,2,D,2,1,H,9,15,7,8
+22/04/13,Hibernian,Aberdeen,0,0,D,0,0,D,12,4,7,1
+26/04/13,Ross County,Dundee United,1,0,H,0,0,D,17,4,7,2
+27/04/13,Aberdeen,Kilmarnock,1,0,H,1,0,H,9,6,7,2
+27/04/13,Dundee,Hearts,1,0,H,0,0,D,4,1,2,1
+27/04/13,Hibernian,St Mirren,3,3,D,1,0,H,13,11,7,5
+27/04/13,St Johnstone,Inverness C,1,0,H,0,0,D,16,6,6,3
+28/04/13,Motherwell,Celtic,3,1,H,1,1,D,12,18,7,9
+04/05/13,Dundee United,St Johnstone,0,1,A,0,1,A,3,5,1,4
+04/05/13,Hearts,St Mirren,3,0,H,2,0,H,14,6,5,4
+04/05/13,Inverness C,Motherwell,4,3,H,3,1,H,12,8,8,4
+05/05/13,Dundee,Aberdeen,1,1,D,1,0,H,11,4,7,2
+05/05/13,Ross County,Celtic,1,1,D,1,1,D,12,8,7,6
+11/05/13,Celtic,St Johnstone,4,0,H,2,0,H,15,1,8,0
+11/05/13,Dundee,Kilmarnock,2,3,A,1,1,D,12,11,9,10
+11/05/13,Inverness C,Dundee United,1,2,A,1,0,H,21,13,11,7
+11/05/13,St Mirren,Aberdeen,0,0,D,0,0,D,7,12,3,6
+12/05/13,Hearts,Hibernian,1,2,A,1,0,H,8,7,4,5
+12/05/13,Motherwell,Ross County,2,0,H,2,0,H,5,9,2,2
+15/05/13,Kilmarnock,Hibernian,1,3,A,0,1,A,10,8,4,4
+18/05/13,Aberdeen,Hearts,1,1,D,0,0,D,12,4,6,4
+18/05/13,Hibernian,Dundee,1,0,H,0,0,D,12,5,4,1
+18/05/13,Kilmarnock,St Mirren,1,3,A,1,1,D,2,7,1,3
+19/05/13,Dundee United,Celtic,0,4,A,0,3,A,16,21,7,12
+19/05/13,Ross County,Inverness C,1,0,H,1,0,H,15,8,8,3
+19/05/13,St Johnstone,Motherwell,2,0,H,1,0,H,14,7,4,5

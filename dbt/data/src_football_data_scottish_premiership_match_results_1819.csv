@@ -1,229 +1,229 @@
-Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR,B365H
-SC0,04/08/2018,Celtic,Livingston,3,1,H,2,0,H,N Walsh,21,6,10,1,11,10,12,3,1,3,0,0,1.1
-SC0,04/08/2018,Hamilton,Hearts,1,4,A,1,1,D,A Dallas,6,20,1,10,18,10,3,6,2,2,0,0,3.5
-SC0,04/08/2018,Kilmarnock,St Johnstone,2,0,H,0,0,D,J Beaton,17,3,6,2,13,14,8,1,1,3,0,0,2.04
-SC0,04/08/2018,St Mirren,Dundee,2,1,H,1,1,D,A Muir,12,10,4,5,13,18,9,6,3,1,0,0,2.5
-SC0,05/08/2018,Aberdeen,Rangers,1,1,D,0,1,A,K Clancy,6,8,1,3,12,11,4,2,3,2,0,1,3.1
-SC0,05/08/2018,Hibernian,Motherwell,3,0,H,2,0,H,B Madden,12,6,4,2,11,9,0,5,1,2,0,0,1.8
-SC0,11/08/2018,Dundee,Aberdeen,0,1,A,0,0,D,B Madden,11,15,1,3,12,15,8,12,1,3,0,0,3.4
-SC0,11/08/2018,Hearts,Celtic,1,0,H,0,0,D,J Beaton,14,13,7,4,18,7,0,4,5,2,0,0,5.5
-SC0,11/08/2018,Livingston,Kilmarnock,0,0,D,0,0,D,G Duncan,7,7,3,2,16,7,3,3,1,2,0,0,3.2
-SC0,11/08/2018,Motherwell,Hamilton,0,1,A,0,0,D,N Walsh,13,6,4,2,13,14,4,2,3,2,0,0,1.61
-SC0,12/08/2018,Rangers,St Mirren,2,0,H,2,0,H,D Robertson,11,6,8,1,11,18,5,4,1,4,1,0,1.33
-SC0,12/08/2018,St Johnstone,Hibernian,1,1,D,1,0,H,W Collum,12,16,1,6,7,12,10,7,1,0,0,0,3.5
-SC0,25/08/2018,Hibernian,Aberdeen,1,1,D,0,1,A,A Dallas,15,6,5,4,13,17,7,5,4,5,0,0,2.37
-SC0,25/08/2018,Kilmarnock,Hearts,0,1,A,0,0,D,W Collum,8,11,2,4,13,19,2,6,0,3,1,0,2.37
-SC0,25/08/2018,St Johnstone,Dundee,1,0,H,0,0,D,S McLean,7,8,3,5,6,3,8,6,0,0,0,0,2.14
-SC0,25/08/2018,St Mirren,Livingston,0,2,A,0,2,A,J Beaton,5,13,0,8,9,9,5,6,2,2,0,0,2.14
-SC0,26/08/2018,Celtic,Hamilton,1,0,H,0,0,D,D Robertson,19,3,3,1,10,13,9,3,0,2,0,0,1.12
-SC0,26/08/2018,Motherwell,Rangers,3,3,D,2,3,A,C Thomson,16,11,6,6,20,17,10,5,3,2,0,0,6
-SC0,01/09/2018,Aberdeen,Kilmarnock,0,2,A,0,1,A,C Thomson,5,13,1,5,14,11,2,6,3,3,1,0,1.9
-SC0,01/09/2018,Dundee,Motherwell,1,3,A,0,0,D,G Duncan,4,11,4,5,7,9,6,8,2,1,0,0,2.7
-SC0,01/09/2018,Hamilton,St Johnstone,1,2,A,0,2,A,B Madden,11,12,3,5,14,14,4,2,2,1,0,0,3.5
-SC0,01/09/2018,Hearts,St Mirren,4,1,H,4,1,H,K Clancy,30,10,7,4,13,15,10,1,2,3,0,0,1.44
-SC0,01/09/2018,Livingston,Hibernian,2,1,H,0,0,D,S McLean,9,10,6,2,13,5,5,3,0,1,0,0,4.5
-SC0,02/09/2018,Celtic,Rangers,1,0,H,0,0,D,W Collum,16,6,9,2,14,16,14,4,2,4,0,0,1.57
-SC0,14/09/2018,St Mirren,Celtic,0,0,D,0,0,D,A Dallas,6,13,2,4,9,18,4,5,1,2,0,1,15
-SC0,15/09/2018,Hibernian,Kilmarnock,3,2,H,2,2,D,J Beaton,11,8,4,5,10,7,5,7,0,1,0,0,1.95
-SC0,15/09/2018,Livingston,Hamilton,1,0,H,1,0,H,A Muir,7,2,3,0,21,15,3,4,2,2,0,0,1.8
-SC0,15/09/2018,Motherwell,Hearts,0,1,A,0,1,A,B Madden,9,12,5,4,20,16,4,4,2,1,0,0,2.75
-SC0,15/09/2018,Rangers,Dundee,4,0,H,3,0,H,K Clancy,19,8,10,1,18,12,15,5,2,3,0,1,1.3
-SC0,15/09/2018,St Johnstone,Aberdeen,1,1,D,1,0,H,W Collum,4,17,3,7,11,18,4,8,3,2,0,0,3.3
-SC0,22/09/2018,Aberdeen,Motherwell,1,0,H,1,0,H,N Walsh,8,6,4,3,14,18,6,6,3,3,0,0,1.9
-SC0,22/09/2018,Dundee,Hibernian,0,3,A,0,0,D,A Dallas,2,17,1,7,13,12,3,4,2,1,0,0,4.75
-SC0,22/09/2018,Hamilton,St Mirren,3,0,H,2,0,H,G Aitken,12,4,4,2,13,14,4,3,2,3,0,0,2.45
-SC0,22/09/2018,Hearts,Livingston,0,0,D,0,0,D,D Robertson,12,8,2,4,8,16,7,3,1,2,0,0,1.44
-SC0,23/09/2018,Kilmarnock,Celtic,2,1,H,0,1,A,C Thomson,7,7,4,4,18,8,4,9,1,2,0,0,8
-SC0,23/09/2018,Rangers,St Johnstone,5,1,H,2,0,H,S McLean,21,11,10,3,9,10,7,4,0,2,0,0,1.36
-SC0,29/09/2018,Celtic,Aberdeen,1,0,H,0,0,D,B Madden,17,10,3,3,14,13,3,3,0,0,0,0,1.4
-SC0,29/09/2018,Hamilton,Dundee,0,2,A,0,1,A,W Collum,11,11,1,4,13,16,4,5,2,3,0,0,2.45
-SC0,29/09/2018,Hearts,St Johnstone,2,1,H,1,0,H,N Walsh,22,9,10,3,13,8,9,2,0,0,0,0,1.6
-SC0,29/09/2018,Kilmarnock,Motherwell,3,1,H,2,1,H,D Robertson,15,6,11,4,10,15,5,3,1,3,0,0,2.04
-SC0,29/09/2018,St Mirren,Hibernian,0,1,A,0,1,A,E Anderson,7,15,1,5,5,21,4,8,0,4,0,0,6
-SC0,30/09/2018,Livingston,Rangers,1,0,H,1,0,H,C Thomson,5,7,2,4,11,13,2,6,2,0,0,0,7
-SC0,06/10/2018,Aberdeen,St Mirren,4,1,H,3,0,H,A Muir,14,6,6,2,15,13,3,2,0,2,0,0,1.36
-SC0,06/10/2018,Dundee,Kilmarnock,1,2,A,1,1,D,S McLean,4,11,3,5,17,15,7,7,2,1,0,0,4
-SC0,06/10/2018,Hibernian,Hamilton,6,0,H,3,0,H,D Robertson,20,5,8,1,9,12,5,0,0,0,0,0,1.36
-SC0,06/10/2018,Motherwell,Livingston,1,1,D,1,0,H,W Collum,8,6,4,2,15,12,2,5,2,3,1,0,2
-SC0,07/10/2018,Rangers,Hearts,3,1,H,3,0,H,K Clancy,13,11,6,4,12,26,8,3,2,2,0,1,1.64
-SC0,07/10/2018,St Johnstone,Celtic,0,6,A,0,5,A,J Beaton,3,30,2,16,10,5,3,12,2,0,1,0,9.5
-SC0,20/10/2018,Celtic,Hibernian,4,2,H,2,0,H,D Robertson,19,11,8,4,2,18,5,7,1,2,0,0,1.4
-SC0,20/10/2018,Hearts,Aberdeen,2,1,H,2,0,H,K Clancy,8,8,4,4,21,24,7,4,5,6,0,0,2.45
-SC0,20/10/2018,Livingston,Dundee,4,0,H,2,0,H,N Walsh,10,8,4,3,19,12,4,2,2,1,0,0,1.85
-SC0,20/10/2018,Motherwell,St Johnstone,0,1,A,0,0,D,B Madden,10,10,2,6,16,4,4,8,2,0,0,0,1.95
-SC0,20/10/2018,St Mirren,Kilmarnock,1,2,A,1,0,H,W Collum,5,13,3,5,18,15,3,4,4,3,0,0,4.33
-SC0,21/10/2018,Hamilton,Rangers,1,4,A,0,1,A,A Dallas,9,11,3,6,15,9,1,5,4,5,0,0,10
-SC0,23/10/2018,Dundee,Hearts,0,3,A,0,2,A,C Thomson,11,15,2,8,14,9,3,6,1,1,0,0,5
-SC0,27/10/2018,Kilmarnock,Hamilton,1,1,D,1,1,D,E Anderson,8,6,2,4,20,18,1,1,2,3,0,1,1.44
-SC0,27/10/2018,St Johnstone,St Mirren,2,0,H,0,0,D,A Dallas,15,4,8,0,7,13,9,3,2,4,0,0,1.85
-SC0,31/10/2018,Aberdeen,Hamilton,3,0,H,2,0,H,G Aitken,16,9,7,2,9,14,8,1,0,2,0,1,1.36
-SC0,31/10/2018,Dundee,Celtic,0,5,A,0,4,A,A Muir,2,20,0,7,11,13,0,7,4,1,0,0,13
-SC0,31/10/2018,Hearts,Hibernian,0,0,D,0,0,D,A Dallas,9,11,1,2,13,20,8,5,3,3,0,1,2.5
-SC0,31/10/2018,Livingston,St Johnstone,0,1,A,0,1,A,J Beaton,2,3,1,1,13,11,3,2,3,2,0,0,2.2
-SC0,31/10/2018,Rangers,Kilmarnock,1,1,D,1,1,D,N Walsh,19,7,6,2,15,15,13,4,4,6,0,0,1.44
-SC0,31/10/2018,St Mirren,Motherwell,0,2,A,0,1,A,K Clancy,6,13,2,5,7,18,2,7,2,3,1,0,3
-SC0,03/11/2018,Celtic,Hearts,5,0,H,3,0,H,J Beaton,17,3,10,1,11,14,6,2,0,3,0,0,1.25
-SC0,03/11/2018,Hamilton,Livingston,1,0,H,0,0,D,A Muir,8,11,5,1,13,19,1,4,3,2,1,0,2.9
-SC0,03/11/2018,Hibernian,St Johnstone,0,1,A,0,0,D,N Walsh,11,10,3,5,15,10,5,5,3,0,0,0,1.57
-SC0,03/11/2018,Motherwell,Dundee,1,0,H,0,0,D,D Robertson,13,2,4,0,18,13,6,4,3,1,0,0,1.66
-SC0,03/11/2018,St Mirren,Rangers,0,2,A,0,0,D,W Collum,6,20,3,4,11,10,4,7,3,2,0,1,15
-SC0,04/11/2018,Kilmarnock,Aberdeen,1,2,A,1,0,H,B Madden,13,2,3,2,15,17,3,4,2,1,0,0,2.87
-SC0,09/11/2018,Aberdeen,Hibernian,1,0,H,1,0,H,A Muir,6,10,1,1,11,16,4,6,0,3,0,0,2.3
-SC0,10/11/2018,Dundee,St Mirren,1,1,D,1,1,D,B Madden,12,4,5,3,12,10,7,2,1,3,0,0,2.5
-SC0,10/11/2018,Hearts,Kilmarnock,0,1,A,0,0,D,D Robertson,13,9,3,4,12,13,4,4,3,1,0,0,2.1
-SC0,10/11/2018,St Johnstone,Hamilton,4,0,H,2,0,H,S McLean,20,4,6,0,11,23,2,2,1,4,0,0,1.8
-SC0,11/11/2018,Livingston,Celtic,0,0,D,0,0,D,K Clancy,7,17,2,6,15,4,4,9,2,0,0,0,13
-SC0,11/11/2018,Rangers,Motherwell,7,1,H,3,1,H,C Thomson,18,6,11,1,9,19,10,0,0,1,0,1,1.36
-SC0,24/11/2018,Hamilton,Celtic,0,3,A,0,1,A,D Robertson,2,17,0,4,12,8,3,6,3,0,0,0,15
-SC0,24/11/2018,Hibernian,Dundee,2,2,D,2,1,H,G Aitken,10,5,4,4,14,7,5,5,3,1,0,0,1.44
-SC0,24/11/2018,Motherwell,Aberdeen,3,0,H,2,0,H,J Beaton,12,11,7,6,15,14,4,6,1,1,0,0,3.4
-SC0,24/11/2018,Rangers,Livingston,3,0,H,1,0,H,N Walsh,18,8,6,2,6,14,8,5,2,0,0,0,1.3
-SC0,24/11/2018,St Johnstone,Kilmarnock,0,0,D,0,0,D,W Collum,10,9,3,1,8,11,3,5,0,1,0,0,2.5
-SC0,24/11/2018,St Mirren,Hearts,2,0,H,0,0,D,C Thomson,8,9,6,1,19,9,3,4,2,0,0,0,5.25
-SC0,01/12/2018,Kilmarnock,Hibernian,3,0,H,2,0,H,C Thomson,10,6,4,3,5,12,2,1,0,1,0,0,2.7
-SC0,01/12/2018,Livingston,Motherwell,2,0,H,1,0,H,E Anderson,8,2,3,1,14,17,5,3,1,2,0,0,2.5
-SC0,01/12/2018,St Mirren,Hamilton,1,3,A,1,2,A,K Clancy,22,7,4,4,15,12,6,2,1,3,1,0,2.25
-SC0,02/12/2018,Hearts,Rangers,1,2,A,1,2,A,B Madden,5,17,2,8,17,12,5,10,0,1,0,1,4.5
-SC0,05/12/2018,Dundee,Hamilton,4,0,H,1,0,H,J Beaton,14,11,5,3,7,6,5,4,1,2,0,0,2.25
-SC0,05/12/2018,Hibernian,St Mirren,2,2,D,0,1,A,E Anderson,12,4,5,2,16,12,4,3,4,3,0,0,1.4
-SC0,05/12/2018,Kilmarnock,Livingston,2,0,H,2,0,H,B Madden,10,9,4,4,9,15,6,3,0,2,0,0,1.83
-SC0,05/12/2018,Motherwell,Celtic,1,1,D,0,1,A,K Clancy,6,8,3,4,18,7,3,4,3,0,0,0,10
-SC0,05/12/2018,Rangers,Aberdeen,0,1,A,0,1,A,S McLean,11,3,4,3,21,16,9,1,2,1,1,1,1.53
-SC0,05/12/2018,St Johnstone,Hearts,2,2,D,1,2,A,A Dallas,11,8,5,3,11,19,4,1,3,3,0,0,2.62
-SC0,08/12/2018,Aberdeen,St Johnstone,0,2,A,0,0,D,D Robertson,11,6,4,4,7,12,2,5,1,3,0,0,1.8
-SC0,08/12/2018,Celtic,Kilmarnock,5,1,H,4,0,H,N Walsh,20,9,11,5,14,13,5,4,2,3,0,0,1.2
-SC0,08/12/2018,Hamilton,Hibernian,0,1,A,0,0,D,B Madden,7,14,2,10,12,16,1,6,2,1,0,0,5
-SC0,08/12/2018,Hearts,Motherwell,1,0,H,1,0,H,W Collum,9,11,4,4,13,13,4,6,0,1,0,0,1.75
-SC0,08/12/2018,Livingston,St Mirren,3,1,H,0,1,A,A Dallas,10,3,4,3,12,9,4,2,1,1,0,0,1.75
-SC0,09/12/2018,Dundee,Rangers,1,1,D,1,1,D,A Muir,4,6,2,3,7,11,3,9,1,2,1,0,11
-SC0,11/12/2018,Aberdeen,Livingston,3,2,H,1,2,A,C Thomson,18,3,8,3,7,14,9,1,1,2,0,0,1.8
-SC0,14/12/2018,Livingston,Hearts,5,0,H,0,0,D,N Walsh,13,8,6,0,15,12,4,1,1,1,0,1,3.1
-SC0,15/12/2018,Kilmarnock,Dundee,3,1,H,0,0,D,K Clancy,18,5,8,2,9,9,5,3,0,2,0,0,1.53
-SC0,15/12/2018,St Johnstone,Motherwell,1,2,A,0,2,A,A Muir,10,10,4,6,8,19,11,6,1,4,0,0,2.04
-SC0,15/12/2018,St Mirren,Aberdeen,1,2,A,1,1,D,G Aitken,2,13,2,6,17,11,2,6,4,2,0,0,5
-SC0,16/12/2018,Hibernian,Celtic,2,0,H,1,0,H,D Robertson,7,12,6,4,13,6,4,8,0,2,0,0,6
-SC0,16/12/2018,Rangers,Hamilton,1,0,H,1,0,H,E Anderson,15,2,5,1,13,9,22,2,1,2,0,0,1.16
-SC0,18/12/2018,Aberdeen,Dundee,5,1,H,2,0,H,N Walsh,16,2,10,2,15,10,8,1,1,3,0,0,1.44
-SC0,19/12/2018,Celtic,Motherwell,3,0,H,3,0,H,B Madden,13,2,7,0,5,13,5,3,0,2,0,0,1.18
-SC0,19/12/2018,Hibernian,Rangers,0,0,D,0,0,D,C Thomson,7,19,1,8,13,10,1,11,2,1,0,0,3.5
-SC0,22/12/2018,Aberdeen,Hearts,2,0,H,1,0,H,J Beaton,11,4,3,1,18,15,5,0,2,2,0,1,2
-SC0,22/12/2018,Celtic,Dundee,3,0,H,1,0,H,E Anderson,27,3,14,1,6,6,10,1,0,1,0,0,1.12
-SC0,22/12/2018,Hamilton,Kilmarnock,1,1,D,1,1,D,B Madden,6,13,3,4,17,12,3,6,3,0,0,0,5
-SC0,22/12/2018,Hibernian,Livingston,1,1,D,0,0,D,G Aitken,16,10,8,4,13,12,6,2,1,3,0,0,1.8
-SC0,22/12/2018,Motherwell,St Mirren,0,1,A,0,0,D,D Robertson,4,3,2,2,11,6,9,5,1,0,0,0,1.66
-SC0,23/12/2018,St Johnstone,Rangers,1,2,A,1,0,H,N Walsh,9,14,3,5,12,13,3,3,3,2,0,0,6
-SC0,26/12/2018,Aberdeen,Celtic,3,4,A,1,1,D,W Collum,8,12,4,7,17,14,2,3,3,1,0,0,6
-SC0,26/12/2018,Dundee,Livingston,0,0,D,0,0,D,B Madden,15,10,5,1,6,7,8,7,2,0,0,1,3.6
-SC0,26/12/2018,Hearts,Hamilton,2,0,H,2,0,H,D Robertson,15,4,4,1,8,11,5,6,2,0,0,1,1.55
-SC0,26/12/2018,Motherwell,Kilmarnock,0,1,A,0,1,A,S McLean,6,16,0,3,16,13,2,7,2,1,1,0,2.75
-SC0,26/12/2018,Rangers,Hibernian,1,1,D,1,0,H,A Dallas,10,7,4,2,9,12,7,3,0,2,0,0,1.5
-SC0,26/12/2018,St Mirren,St Johnstone,0,1,A,0,0,D,K Clancy,7,8,1,3,6,11,3,6,0,1,0,0,3.25
-SC0,29/12/2018,Dundee,St Johnstone,0,2,A,0,1,A,D Robertson,7,19,1,11,10,7,2,6,3,1,0,0,3.8
-SC0,29/12/2018,Hamilton,Motherwell,1,2,A,1,1,D,N Walsh,8,13,2,4,12,17,1,8,1,3,0,0,3.1
-SC0,29/12/2018,Hibernian,Hearts,0,1,A,0,1,A,K Clancy,16,8,4,5,11,14,11,2,1,2,0,0,2
-SC0,29/12/2018,Kilmarnock,St Mirren,2,1,H,2,1,H,W Collum,12,3,4,1,8,12,5,3,1,2,0,0,1.5
-SC0,29/12/2018,Livingston,Aberdeen,1,2,A,0,0,D,S McLean,7,11,2,3,16,11,5,6,0,0,0,0,3
-SC0,29/12/2018,Rangers,Celtic,1,0,H,1,0,H,J Beaton,14,7,7,1,15,17,9,4,1,3,0,0,3.75
-SC0,23/01/2019,Celtic,St Mirren,4,0,H,2,0,H,E Anderson,20,1,9,1,14,9,8,2,1,1,0,0,1.1
-SC0,23/01/2019,Hamilton,Aberdeen,0,3,A,0,1,A,G Aitken,3,8,2,4,16,16,4,2,3,2,0,0,6.5
-SC0,23/01/2019,Hearts,Dundee,1,2,A,1,1,D,J Beaton,16,10,8,6,9,16,7,2,1,3,0,0,1.4
-SC0,23/01/2019,Kilmarnock,Rangers,2,1,H,1,1,D,D Robertson,8,15,3,7,14,16,3,6,5,2,0,0,5.25
-SC0,23/01/2019,Motherwell,Hibernian,1,0,H,1,0,H,B Madden,13,11,5,3,12,13,3,1,1,2,0,0,3.4
-SC0,23/01/2019,St Johnstone,Livingston,1,0,H,0,0,D,A Dallas,9,8,3,2,12,14,2,7,3,2,0,0,2.2
-SC0,26/01/2019,Aberdeen,Kilmarnock,0,0,D,0,0,D,N Walsh,7,0,3,0,10,12,6,1,2,4,0,1,1.95
-SC0,26/01/2019,Celtic,Hamilton,3,0,H,1,0,H,A Muir,25,3,14,1,9,11,13,3,0,3,0,0,1.1
-SC0,26/01/2019,Dundee,Motherwell,0,1,A,0,0,D,W Collum,12,5,1,3,5,12,8,1,0,1,0,0,3.9
-SC0,26/01/2019,Hearts,St Johnstone,2,0,H,0,0,D,C Thomson,14,2,7,0,10,11,8,3,1,3,0,0,2
-SC0,27/01/2019,Livingston,Rangers,0,3,A,0,1,A,K Clancy,5,14,1,5,9,8,1,9,2,1,0,0,7
-SC0,27/01/2019,St Mirren,Hibernian,1,3,A,1,0,H,S McLean,9,12,3,5,13,18,4,6,3,2,0,0,5.25
-SC0,30/01/2019,Celtic,St Johnstone,2,0,H,0,0,D,G Aitken,21,1,9,0,10,7,9,2,1,1,0,0,1.16
-SC0,01/02/2019,Kilmarnock,Hearts,1,2,A,1,2,A,S McLean,15,6,6,3,14,17,4,0,3,2,0,0,2.3
-SC0,02/02/2019,Hamilton,Dundee,1,1,D,0,0,D,E Anderson,14,6,4,4,14,13,6,7,4,2,0,0,2.6
-SC0,02/02/2019,Hibernian,Aberdeen,1,2,A,1,2,A,D Robertson,6,6,3,3,16,7,4,2,3,2,0,0,2.7
-SC0,02/02/2019,Motherwell,Livingston,3,0,H,3,0,H,J Beaton,8,10,4,2,6,9,5,9,1,0,0,0,2.3
-SC0,02/02/2019,Rangers,St Mirren,4,0,H,1,0,H,A Dallas,25,5,11,0,14,13,8,2,2,2,0,0,1.14
-SC0,03/02/2019,St Johnstone,Celtic,0,2,A,0,0,D,W Collum,6,17,2,7,12,16,3,7,2,1,0,1,11
-SC0,06/02/2019,Aberdeen,Rangers,2,4,A,1,3,A,B Madden,12,7,5,6,15,12,10,4,2,2,1,1,4
-SC0,06/02/2019,Celtic,Hibernian,2,0,H,1,0,H,C Thomson,19,5,8,0,5,11,4,1,1,3,0,0,1.28
-SC0,06/02/2019,Dundee,Kilmarnock,2,2,D,2,1,H,K Clancy,8,15,6,5,10,10,2,7,2,2,0,0,4.33
-SC0,06/02/2019,Hamilton,St Johnstone,2,1,H,0,0,D,G Duncan,11,9,6,3,7,10,4,4,2,1,0,0,3.75
-SC0,06/02/2019,Hearts,Livingston,0,0,D,0,0,D,A Muir,6,6,2,3,9,16,6,3,1,2,0,0,1.75
-SC0,06/02/2019,St Mirren,Motherwell,1,2,A,0,1,A,N Walsh,9,12,4,7,8,13,9,8,1,2,0,0,3.4
-SC0,16/02/2019,Aberdeen,St Mirren,2,2,D,1,1,D,C Thomson,16,7,5,2,8,14,11,3,0,2,0,0,1.3
-SC0,16/02/2019,Hibernian,Hamilton,2,0,H,2,0,H,A Muir,13,6,4,3,15,11,8,4,3,2,0,0,1.45
-SC0,16/02/2019,Livingston,Dundee,1,2,A,1,0,H,G Aitken,7,14,3,2,10,8,7,5,2,3,1,0,1.8
-SC0,16/02/2019,Rangers,St Johnstone,0,0,D,0,0,D,S McLean,18,6,1,2,14,10,5,5,0,0,0,0,1.33
-SC0,17/02/2019,Kilmarnock,Celtic,0,1,A,0,0,D,B Madden,8,12,1,6,12,8,7,3,0,1,1,1,7.5
-SC0,17/02/2019,Motherwell,Hearts,2,1,H,1,1,D,N Walsh,10,13,7,3,16,15,7,6,2,2,0,1,2.9
-SC0,22/02/2019,Dundee,Hibernian,2,4,A,1,2,A,J Beaton,6,10,5,8,13,10,5,2,4,1,0,0,4.2
-SC0,23/02/2019,Hearts,St Mirren,1,1,D,0,0,D,D Robertson,15,8,6,1,14,13,9,2,3,3,0,0,1.53
-SC0,23/02/2019,Livingston,Kilmarnock,1,0,H,1,0,H,A Dallas,9,7,2,2,12,5,3,2,2,0,0,0,3
-SC0,23/02/2019,St Johnstone,Aberdeen,0,2,A,0,1,A,E Anderson,4,4,1,2,11,5,12,3,3,1,0,0,3.75
-SC0,24/02/2019,Celtic,Motherwell,4,1,H,2,0,H,K Clancy,14,5,8,1,13,14,5,3,4,4,0,0,1.18
-SC0,24/02/2019,Hamilton,Rangers,0,5,A,0,4,A,N Walsh,3,22,1,9,16,6,1,8,1,0,0,0,13
-SC0,27/02/2019,Aberdeen,Hamilton,0,2,A,0,1,A,B Madden,18,5,4,3,11,17,11,5,1,2,0,0,1.28
-SC0,27/02/2019,Hearts,Celtic,1,2,A,0,1,A,S McLean,6,16,3,7,17,13,4,5,3,2,1,0,5.5
-SC0,27/02/2019,Rangers,Dundee,4,0,H,3,0,H,D Robertson,20,7,7,1,8,7,6,1,0,2,0,0,1.16
-SC0,27/02/2019,St Johnstone,Hibernian,1,2,A,1,0,H,G Duncan,6,8,1,4,9,13,11,2,0,2,0,1,2.75
-SC0,02/03/2019,Kilmarnock,Motherwell,0,0,D,0,0,D,J Beaton,11,7,4,4,11,11,4,5,3,2,0,0,2.1
-SC0,02/03/2019,St Mirren,Livingston,1,0,H,0,0,D,N Walsh,10,8,5,1,7,12,4,7,1,3,0,0,3
-SC0,08/03/2019,Hibernian,Rangers,1,1,D,0,1,A,S McLean,13,19,6,6,19,9,5,5,3,3,1,0,5.25
-SC0,09/03/2019,Celtic,Aberdeen,0,0,D,0,0,D,C Thomson,8,6,2,2,9,11,11,3,1,1,0,0,1.33
-SC0,09/03/2019,Dundee,Hearts,0,1,A,0,1,A,N Walsh,9,4,3,3,18,16,8,3,3,3,0,0,4.33
-SC0,09/03/2019,Livingston,St Johnstone,3,1,H,1,1,D,J Beaton,11,5,4,2,10,5,2,5,1,1,0,0,2.25
-SC0,09/03/2019,Motherwell,Hamilton,3,0,H,3,0,H,A Dallas,14,10,9,3,14,14,2,1,2,4,0,0,1.7
-SC0,11/03/2019,St Mirren,Kilmarnock,0,1,A,0,0,D,D Robertson,11,16,5,4,14,9,7,4,1,1,0,0,4.2
-SC0,16/03/2019,Aberdeen,Livingston,1,1,D,1,1,D,D Robertson,8,7,3,3,12,10,4,3,0,0,0,0,1.61
-SC0,16/03/2019,Hamilton,Hearts,1,0,H,1,0,H,W Collum,11,8,5,1,15,18,3,5,0,0,0,0,4.75
-SC0,16/03/2019,Hibernian,Motherwell,2,0,H,2,0,H,K Clancy,13,11,5,6,8,10,4,6,2,2,0,0,1.95
-SC0,16/03/2019,Rangers,Kilmarnock,1,1,D,0,1,A,G Aitken,9,2,7,1,5,9,5,3,2,4,0,0,1.33
-SC0,17/03/2019,Dundee,Celtic,0,1,A,0,0,D,B Madden,8,24,3,8,6,5,5,12,1,0,0,0,13
-SC0,27/03/2019,St Johnstone,St Mirren,1,0,H,1,0,H,S McLean,6,10,4,3,10,16,7,4,0,1,0,1,1.83
-SC0,29/03/2019,Livingston,Hibernian,1,2,A,0,0,D,N Walsh,12,6,2,3,9,9,6,6,0,0,0,0,2.8
-SC0,30/03/2019,Hearts,Aberdeen,2,1,H,0,1,A,J Beaton,8,8,5,3,12,21,1,5,4,4,0,0,2.7
-SC0,30/03/2019,Kilmarnock,Hamilton,5,0,H,1,0,H,A Dallas,14,2,7,1,7,7,6,1,1,3,0,0,1.61
-SC0,30/03/2019,Motherwell,St Johnstone,3,0,H,0,0,D,E Anderson,10,4,3,1,2,1,5,6,1,1,0,0,2.25
-SC0,30/03/2019,St Mirren,Dundee,2,1,H,1,1,D,W Collum,7,7,4,3,14,13,2,1,1,1,0,0,2.3
-SC0,31/03/2019,Celtic,Rangers,2,1,H,1,0,H,B Madden,12,6,7,1,8,16,10,5,3,2,0,1,1.75
-SC0,03/04/2019,Aberdeen,Motherwell,3,1,H,1,1,D,G Duncan,16,2,7,1,12,12,3,1,1,1,0,0,1.72
-SC0,03/04/2019,Hibernian,Kilmarnock,0,0,D,0,0,D,S McLean,5,9,2,5,15,10,2,6,2,4,0,0,2.37
-SC0,03/04/2019,Livingston,Hamilton,2,0,H,0,0,D,A Muir,13,3,6,1,15,8,4,5,2,2,0,0,1.75
-SC0,03/04/2019,Rangers,Hearts,3,0,H,2,0,H,K Clancy,15,8,6,4,12,18,6,4,1,2,0,0,1.55
-SC0,03/04/2019,St Johnstone,Dundee,2,0,H,1,0,H,G Aitken,10,10,6,3,11,13,6,1,1,1,0,0,1.75
-SC0,03/04/2019,St Mirren,Celtic,0,2,A,0,1,A,D Robertson,4,18,1,6,10,12,1,2,1,2,0,0,15
-SC0,06/04/2019,Celtic,Livingston,0,0,D,0,0,D,E Anderson,18,3,11,1,6,12,8,4,0,4,0,0,1.2
-SC0,06/04/2019,Dundee,Aberdeen,0,2,A,0,0,D,A Dallas,6,17,1,7,16,6,4,8,2,1,0,0,6
-SC0,06/04/2019,Hamilton,St Mirren,1,1,D,0,0,D,J Beaton,13,11,6,1,20,8,7,5,1,0,0,0,2.62
-SC0,06/04/2019,Hearts,Hibernian,1,2,A,1,1,D,W Collum,15,11,8,6,11,19,11,2,1,2,0,0,2.37
-SC0,06/04/2019,Kilmarnock,St Johnstone,2,0,H,2,0,H,B Madden,18,5,8,1,13,10,15,2,1,4,0,1,1.83
-SC0,07/04/2019,Motherwell,Rangers,0,3,A,0,2,A,N Walsh,9,8,1,4,11,9,2,1,2,0,0,0,7.5
-SC0,20/04/2019,Hamilton,Motherwell,1,1,D,0,1,A,D Robertson,13,9,4,3,14,15,2,5,3,1,0,0,3.6
-SC0,20/04/2019,Hearts,Rangers,1,3,A,0,2,A,J Beaton,11,12,6,5,13,10,6,2,1,1,0,0,5.5
-SC0,20/04/2019,Kilmarnock,Aberdeen,0,1,A,0,0,D,S McLean,4,9,2,2,18,22,1,3,2,4,3,0,2.6
-SC0,20/04/2019,Livingston,St Mirren,1,3,A,1,1,D,W Collum,9,14,2,9,7,9,4,7,0,1,1,0,1.95
-SC0,20/04/2019,St Johnstone,Dundee,2,0,H,0,0,D,A Muir,12,7,8,2,16,15,4,2,1,3,0,0,1.85
-SC0,21/04/2019,Hibernian,Celtic,0,0,D,0,0,D,N Walsh,13,20,3,6,11,3,4,9,5,0,0,0,7.5
-SC0,27/04/2019,Celtic,Kilmarnock,1,0,H,0,0,D,W Collum,27,11,6,6,15,10,6,5,2,2,0,0,1.25
-SC0,27/04/2019,Hamilton,Livingston,3,3,D,1,0,H,G Aitken,15,8,7,4,9,11,9,4,2,0,0,0,2.8
-SC0,27/04/2019,Motherwell,Dundee,4,3,H,2,2,D,K Clancy,17,11,8,6,10,16,10,4,2,3,1,0,1.8
-SC0,27/04/2019,St Mirren,St Johnstone,1,1,D,0,0,D,S McLean,9,4,3,1,15,13,7,3,3,3,0,0,2.8
-SC0,28/04/2019,Hibernian,Hearts,1,1,D,0,0,D,C Thomson,9,5,4,4,14,20,5,4,2,6,0,0,2.2
-SC0,28/04/2019,Rangers,Aberdeen,2,0,H,0,0,D,D Robertson,16,4,6,1,12,12,7,1,1,2,0,1,1.5
-SC0,04/05/2019,Aberdeen,Celtic,0,3,A,0,1,A,J Beaton,12,12,3,7,11,7,3,10,2,3,0,0,5.5
-SC0,04/05/2019,Dundee,Hamilton,0,1,A,0,0,D,N Walsh,8,13,2,5,10,10,3,8,0,1,0,0,2.37
-SC0,04/05/2019,Hearts,Kilmarnock,0,1,A,0,0,D,K Clancy,10,10,2,5,18,18,5,8,3,5,0,0,2.62
-SC0,04/05/2019,Motherwell,St Mirren,1,1,D,0,0,D,A Muir,9,10,4,5,16,13,5,3,1,3,0,0,1.95
-SC0,04/05/2019,St Johnstone,Livingston,1,1,D,1,0,H,D Munro,8,10,3,4,7,18,6,6,0,2,0,0,2.2
-SC0,05/05/2019,Rangers,Hibernian,1,0,H,1,0,H,B Madden,17,5,7,1,8,13,4,3,0,3,1,0,1.44
-SC0,10/05/2019,Aberdeen,Hearts,2,1,H,0,0,D,B Madden,13,6,4,4,17,25,2,2,2,4,0,0,1.55
-SC0,11/05/2019,Kilmarnock,Hibernian,1,0,H,1,0,H,A Dallas,15,6,5,3,6,13,11,3,0,1,0,0,2
-SC0,11/05/2019,Livingston,Dundee,0,1,A,0,1,A,A Newlands,13,5,4,4,11,12,3,0,1,1,0,0,1.85
-SC0,11/05/2019,St Johnstone,Motherwell,2,0,H,1,0,H,C Steven,10,5,5,1,13,13,3,4,2,3,0,0,2.5
-SC0,12/05/2019,Rangers,Celtic,2,0,H,1,0,H,K Clancy,11,3,5,1,12,12,6,3,2,2,0,0,3
-SC0,13/05/2019,St Mirren,Hamilton,2,0,H,0,0,D,W Collum,20,7,7,2,14,17,9,2,2,1,0,1,2.1
-SC0,18/05/2019,Dundee,St Mirren,2,3,A,1,0,H,A Muir,4,12,3,6,13,11,0,9,2,2,1,0,3.4
-SC0,18/05/2019,Hamilton,St Johnstone,2,0,H,1,0,H,S McLean,13,7,6,0,12,9,7,3,3,1,0,0,2.8
-SC0,18/05/2019,Motherwell,Livingston,3,2,H,3,0,H,D Munro,14,19,6,8,10,12,4,8,0,0,0,0,2.05
-SC0,19/05/2019,Celtic,Hearts,2,1,H,1,1,D,C Thomson,16,4,7,3,11,9,9,1,1,1,0,0,1.3
-SC0,19/05/2019,Hibernian,Aberdeen,1,2,A,1,1,D,E Anderson,15,14,8,7,18,4,2,3,4,1,0,0,3.1
-SC0,19/05/2019,Kilmarnock,Rangers,2,1,H,1,0,H,W Collum,9,7,4,3,12,14,4,7,1,3,0,0,4.33
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST
+04/08/2018,Celtic,Livingston,3,1,H,2,0,H,21,6,10,1
+04/08/2018,Hamilton,Hearts,1,4,A,1,1,D,6,20,1,10
+04/08/2018,Kilmarnock,St Johnstone,2,0,H,0,0,D,17,3,6,2
+04/08/2018,St Mirren,Dundee,2,1,H,1,1,D,12,10,4,5
+05/08/2018,Aberdeen,Rangers,1,1,D,0,1,A,6,8,1,3
+05/08/2018,Hibernian,Motherwell,3,0,H,2,0,H,12,6,4,2
+11/08/2018,Dundee,Aberdeen,0,1,A,0,0,D,11,15,1,3
+11/08/2018,Hearts,Celtic,1,0,H,0,0,D,14,13,7,4
+11/08/2018,Livingston,Kilmarnock,0,0,D,0,0,D,7,7,3,2
+11/08/2018,Motherwell,Hamilton,0,1,A,0,0,D,13,6,4,2
+12/08/2018,Rangers,St Mirren,2,0,H,2,0,H,11,6,8,1
+12/08/2018,St Johnstone,Hibernian,1,1,D,1,0,H,12,16,1,6
+25/08/2018,Hibernian,Aberdeen,1,1,D,0,1,A,15,6,5,4
+25/08/2018,Kilmarnock,Hearts,0,1,A,0,0,D,8,11,2,4
+25/08/2018,St Johnstone,Dundee,1,0,H,0,0,D,7,8,3,5
+25/08/2018,St Mirren,Livingston,0,2,A,0,2,A,5,13,0,8
+26/08/2018,Celtic,Hamilton,1,0,H,0,0,D,19,3,3,1
+26/08/2018,Motherwell,Rangers,3,3,D,2,3,A,16,11,6,6
+01/09/2018,Aberdeen,Kilmarnock,0,2,A,0,1,A,5,13,1,5
+01/09/2018,Dundee,Motherwell,1,3,A,0,0,D,4,11,4,5
+01/09/2018,Hamilton,St Johnstone,1,2,A,0,2,A,11,12,3,5
+01/09/2018,Hearts,St Mirren,4,1,H,4,1,H,30,10,7,4
+01/09/2018,Livingston,Hibernian,2,1,H,0,0,D,9,10,6,2
+02/09/2018,Celtic,Rangers,1,0,H,0,0,D,16,6,9,2
+14/09/2018,St Mirren,Celtic,0,0,D,0,0,D,6,13,2,4
+15/09/2018,Hibernian,Kilmarnock,3,2,H,2,2,D,11,8,4,5
+15/09/2018,Livingston,Hamilton,1,0,H,1,0,H,7,2,3,0
+15/09/2018,Motherwell,Hearts,0,1,A,0,1,A,9,12,5,4
+15/09/2018,Rangers,Dundee,4,0,H,3,0,H,19,8,10,1
+15/09/2018,St Johnstone,Aberdeen,1,1,D,1,0,H,4,17,3,7
+22/09/2018,Aberdeen,Motherwell,1,0,H,1,0,H,8,6,4,3
+22/09/2018,Dundee,Hibernian,0,3,A,0,0,D,2,17,1,7
+22/09/2018,Hamilton,St Mirren,3,0,H,2,0,H,12,4,4,2
+22/09/2018,Hearts,Livingston,0,0,D,0,0,D,12,8,2,4
+23/09/2018,Kilmarnock,Celtic,2,1,H,0,1,A,7,7,4,4
+23/09/2018,Rangers,St Johnstone,5,1,H,2,0,H,21,11,10,3
+29/09/2018,Celtic,Aberdeen,1,0,H,0,0,D,17,10,3,3
+29/09/2018,Hamilton,Dundee,0,2,A,0,1,A,11,11,1,4
+29/09/2018,Hearts,St Johnstone,2,1,H,1,0,H,22,9,10,3
+29/09/2018,Kilmarnock,Motherwell,3,1,H,2,1,H,15,6,11,4
+29/09/2018,St Mirren,Hibernian,0,1,A,0,1,A,7,15,1,5
+30/09/2018,Livingston,Rangers,1,0,H,1,0,H,5,7,2,4
+06/10/2018,Aberdeen,St Mirren,4,1,H,3,0,H,14,6,6,2
+06/10/2018,Dundee,Kilmarnock,1,2,A,1,1,D,4,11,3,5
+06/10/2018,Hibernian,Hamilton,6,0,H,3,0,H,20,5,8,1
+06/10/2018,Motherwell,Livingston,1,1,D,1,0,H,8,6,4,2
+07/10/2018,Rangers,Hearts,3,1,H,3,0,H,13,11,6,4
+07/10/2018,St Johnstone,Celtic,0,6,A,0,5,A,3,30,2,16
+20/10/2018,Celtic,Hibernian,4,2,H,2,0,H,19,11,8,4
+20/10/2018,Hearts,Aberdeen,2,1,H,2,0,H,8,8,4,4
+20/10/2018,Livingston,Dundee,4,0,H,2,0,H,10,8,4,3
+20/10/2018,Motherwell,St Johnstone,0,1,A,0,0,D,10,10,2,6
+20/10/2018,St Mirren,Kilmarnock,1,2,A,1,0,H,5,13,3,5
+21/10/2018,Hamilton,Rangers,1,4,A,0,1,A,9,11,3,6
+23/10/2018,Dundee,Hearts,0,3,A,0,2,A,11,15,2,8
+27/10/2018,Kilmarnock,Hamilton,1,1,D,1,1,D,8,6,2,4
+27/10/2018,St Johnstone,St Mirren,2,0,H,0,0,D,15,4,8,0
+31/10/2018,Aberdeen,Hamilton,3,0,H,2,0,H,16,9,7,2
+31/10/2018,Dundee,Celtic,0,5,A,0,4,A,2,20,0,7
+31/10/2018,Hearts,Hibernian,0,0,D,0,0,D,9,11,1,2
+31/10/2018,Livingston,St Johnstone,0,1,A,0,1,A,2,3,1,1
+31/10/2018,Rangers,Kilmarnock,1,1,D,1,1,D,19,7,6,2
+31/10/2018,St Mirren,Motherwell,0,2,A,0,1,A,6,13,2,5
+03/11/2018,Celtic,Hearts,5,0,H,3,0,H,17,3,10,1
+03/11/2018,Hamilton,Livingston,1,0,H,0,0,D,8,11,5,1
+03/11/2018,Hibernian,St Johnstone,0,1,A,0,0,D,11,10,3,5
+03/11/2018,Motherwell,Dundee,1,0,H,0,0,D,13,2,4,0
+03/11/2018,St Mirren,Rangers,0,2,A,0,0,D,6,20,3,4
+04/11/2018,Kilmarnock,Aberdeen,1,2,A,1,0,H,13,2,3,2
+09/11/2018,Aberdeen,Hibernian,1,0,H,1,0,H,6,10,1,1
+10/11/2018,Dundee,St Mirren,1,1,D,1,1,D,12,4,5,3
+10/11/2018,Hearts,Kilmarnock,0,1,A,0,0,D,13,9,3,4
+10/11/2018,St Johnstone,Hamilton,4,0,H,2,0,H,20,4,6,0
+11/11/2018,Livingston,Celtic,0,0,D,0,0,D,7,17,2,6
+11/11/2018,Rangers,Motherwell,7,1,H,3,1,H,18,6,11,1
+24/11/2018,Hamilton,Celtic,0,3,A,0,1,A,2,17,0,4
+24/11/2018,Hibernian,Dundee,2,2,D,2,1,H,10,5,4,4
+24/11/2018,Motherwell,Aberdeen,3,0,H,2,0,H,12,11,7,6
+24/11/2018,Rangers,Livingston,3,0,H,1,0,H,18,8,6,2
+24/11/2018,St Johnstone,Kilmarnock,0,0,D,0,0,D,10,9,3,1
+24/11/2018,St Mirren,Hearts,2,0,H,0,0,D,8,9,6,1
+01/12/2018,Kilmarnock,Hibernian,3,0,H,2,0,H,10,6,4,3
+01/12/2018,Livingston,Motherwell,2,0,H,1,0,H,8,2,3,1
+01/12/2018,St Mirren,Hamilton,1,3,A,1,2,A,22,7,4,4
+02/12/2018,Hearts,Rangers,1,2,A,1,2,A,5,17,2,8
+05/12/2018,Dundee,Hamilton,4,0,H,1,0,H,14,11,5,3
+05/12/2018,Hibernian,St Mirren,2,2,D,0,1,A,12,4,5,2
+05/12/2018,Kilmarnock,Livingston,2,0,H,2,0,H,10,9,4,4
+05/12/2018,Motherwell,Celtic,1,1,D,0,1,A,6,8,3,4
+05/12/2018,Rangers,Aberdeen,0,1,A,0,1,A,11,3,4,3
+05/12/2018,St Johnstone,Hearts,2,2,D,1,2,A,11,8,5,3
+08/12/2018,Aberdeen,St Johnstone,0,2,A,0,0,D,11,6,4,4
+08/12/2018,Celtic,Kilmarnock,5,1,H,4,0,H,20,9,11,5
+08/12/2018,Hamilton,Hibernian,0,1,A,0,0,D,7,14,2,10
+08/12/2018,Hearts,Motherwell,1,0,H,1,0,H,9,11,4,4
+08/12/2018,Livingston,St Mirren,3,1,H,0,1,A,10,3,4,3
+09/12/2018,Dundee,Rangers,1,1,D,1,1,D,4,6,2,3
+11/12/2018,Aberdeen,Livingston,3,2,H,1,2,A,18,3,8,3
+14/12/2018,Livingston,Hearts,5,0,H,0,0,D,13,8,6,0
+15/12/2018,Kilmarnock,Dundee,3,1,H,0,0,D,18,5,8,2
+15/12/2018,St Johnstone,Motherwell,1,2,A,0,2,A,10,10,4,6
+15/12/2018,St Mirren,Aberdeen,1,2,A,1,1,D,2,13,2,6
+16/12/2018,Hibernian,Celtic,2,0,H,1,0,H,7,12,6,4
+16/12/2018,Rangers,Hamilton,1,0,H,1,0,H,15,2,5,1
+18/12/2018,Aberdeen,Dundee,5,1,H,2,0,H,16,2,10,2
+19/12/2018,Celtic,Motherwell,3,0,H,3,0,H,13,2,7,0
+19/12/2018,Hibernian,Rangers,0,0,D,0,0,D,7,19,1,8
+22/12/2018,Aberdeen,Hearts,2,0,H,1,0,H,11,4,3,1
+22/12/2018,Celtic,Dundee,3,0,H,1,0,H,27,3,14,1
+22/12/2018,Hamilton,Kilmarnock,1,1,D,1,1,D,6,13,3,4
+22/12/2018,Hibernian,Livingston,1,1,D,0,0,D,16,10,8,4
+22/12/2018,Motherwell,St Mirren,0,1,A,0,0,D,4,3,2,2
+23/12/2018,St Johnstone,Rangers,1,2,A,1,0,H,9,14,3,5
+26/12/2018,Aberdeen,Celtic,3,4,A,1,1,D,8,12,4,7
+26/12/2018,Dundee,Livingston,0,0,D,0,0,D,15,10,5,1
+26/12/2018,Hearts,Hamilton,2,0,H,2,0,H,15,4,4,1
+26/12/2018,Motherwell,Kilmarnock,0,1,A,0,1,A,6,16,0,3
+26/12/2018,Rangers,Hibernian,1,1,D,1,0,H,10,7,4,2
+26/12/2018,St Mirren,St Johnstone,0,1,A,0,0,D,7,8,1,3
+29/12/2018,Dundee,St Johnstone,0,2,A,0,1,A,7,19,1,11
+29/12/2018,Hamilton,Motherwell,1,2,A,1,1,D,8,13,2,4
+29/12/2018,Hibernian,Hearts,0,1,A,0,1,A,16,8,4,5
+29/12/2018,Kilmarnock,St Mirren,2,1,H,2,1,H,12,3,4,1
+29/12/2018,Livingston,Aberdeen,1,2,A,0,0,D,7,11,2,3
+29/12/2018,Rangers,Celtic,1,0,H,1,0,H,14,7,7,1
+23/01/2019,Celtic,St Mirren,4,0,H,2,0,H,20,1,9,1
+23/01/2019,Hamilton,Aberdeen,0,3,A,0,1,A,3,8,2,4
+23/01/2019,Hearts,Dundee,1,2,A,1,1,D,16,10,8,6
+23/01/2019,Kilmarnock,Rangers,2,1,H,1,1,D,8,15,3,7
+23/01/2019,Motherwell,Hibernian,1,0,H,1,0,H,13,11,5,3
+23/01/2019,St Johnstone,Livingston,1,0,H,0,0,D,9,8,3,2
+26/01/2019,Aberdeen,Kilmarnock,0,0,D,0,0,D,7,0,3,0
+26/01/2019,Celtic,Hamilton,3,0,H,1,0,H,25,3,14,1
+26/01/2019,Dundee,Motherwell,0,1,A,0,0,D,12,5,1,3
+26/01/2019,Hearts,St Johnstone,2,0,H,0,0,D,14,2,7,0
+27/01/2019,Livingston,Rangers,0,3,A,0,1,A,5,14,1,5
+27/01/2019,St Mirren,Hibernian,1,3,A,1,0,H,9,12,3,5
+30/01/2019,Celtic,St Johnstone,2,0,H,0,0,D,21,1,9,0
+01/02/2019,Kilmarnock,Hearts,1,2,A,1,2,A,15,6,6,3
+02/02/2019,Hamilton,Dundee,1,1,D,0,0,D,14,6,4,4
+02/02/2019,Hibernian,Aberdeen,1,2,A,1,2,A,6,6,3,3
+02/02/2019,Motherwell,Livingston,3,0,H,3,0,H,8,10,4,2
+02/02/2019,Rangers,St Mirren,4,0,H,1,0,H,25,5,11,0
+03/02/2019,St Johnstone,Celtic,0,2,A,0,0,D,6,17,2,7
+06/02/2019,Aberdeen,Rangers,2,4,A,1,3,A,12,7,5,6
+06/02/2019,Celtic,Hibernian,2,0,H,1,0,H,19,5,8,0
+06/02/2019,Dundee,Kilmarnock,2,2,D,2,1,H,8,15,6,5
+06/02/2019,Hamilton,St Johnstone,2,1,H,0,0,D,11,9,6,3
+06/02/2019,Hearts,Livingston,0,0,D,0,0,D,6,6,2,3
+06/02/2019,St Mirren,Motherwell,1,2,A,0,1,A,9,12,4,7
+16/02/2019,Aberdeen,St Mirren,2,2,D,1,1,D,16,7,5,2
+16/02/2019,Hibernian,Hamilton,2,0,H,2,0,H,13,6,4,3
+16/02/2019,Livingston,Dundee,1,2,A,1,0,H,7,14,3,2
+16/02/2019,Rangers,St Johnstone,0,0,D,0,0,D,18,6,1,2
+17/02/2019,Kilmarnock,Celtic,0,1,A,0,0,D,8,12,1,6
+17/02/2019,Motherwell,Hearts,2,1,H,1,1,D,10,13,7,3
+22/02/2019,Dundee,Hibernian,2,4,A,1,2,A,6,10,5,8
+23/02/2019,Hearts,St Mirren,1,1,D,0,0,D,15,8,6,1
+23/02/2019,Livingston,Kilmarnock,1,0,H,1,0,H,9,7,2,2
+23/02/2019,St Johnstone,Aberdeen,0,2,A,0,1,A,4,4,1,2
+24/02/2019,Celtic,Motherwell,4,1,H,2,0,H,14,5,8,1
+24/02/2019,Hamilton,Rangers,0,5,A,0,4,A,3,22,1,9
+27/02/2019,Aberdeen,Hamilton,0,2,A,0,1,A,18,5,4,3
+27/02/2019,Hearts,Celtic,1,2,A,0,1,A,6,16,3,7
+27/02/2019,Rangers,Dundee,4,0,H,3,0,H,20,7,7,1
+27/02/2019,St Johnstone,Hibernian,1,2,A,1,0,H,6,8,1,4
+02/03/2019,Kilmarnock,Motherwell,0,0,D,0,0,D,11,7,4,4
+02/03/2019,St Mirren,Livingston,1,0,H,0,0,D,10,8,5,1
+08/03/2019,Hibernian,Rangers,1,1,D,0,1,A,13,19,6,6
+09/03/2019,Celtic,Aberdeen,0,0,D,0,0,D,8,6,2,2
+09/03/2019,Dundee,Hearts,0,1,A,0,1,A,9,4,3,3
+09/03/2019,Livingston,St Johnstone,3,1,H,1,1,D,11,5,4,2
+09/03/2019,Motherwell,Hamilton,3,0,H,3,0,H,14,10,9,3
+11/03/2019,St Mirren,Kilmarnock,0,1,A,0,0,D,11,16,5,4
+16/03/2019,Aberdeen,Livingston,1,1,D,1,1,D,8,7,3,3
+16/03/2019,Hamilton,Hearts,1,0,H,1,0,H,11,8,5,1
+16/03/2019,Hibernian,Motherwell,2,0,H,2,0,H,13,11,5,6
+16/03/2019,Rangers,Kilmarnock,1,1,D,0,1,A,9,2,7,1
+17/03/2019,Dundee,Celtic,0,1,A,0,0,D,8,24,3,8
+27/03/2019,St Johnstone,St Mirren,1,0,H,1,0,H,6,10,4,3
+29/03/2019,Livingston,Hibernian,1,2,A,0,0,D,12,6,2,3
+30/03/2019,Hearts,Aberdeen,2,1,H,0,1,A,8,8,5,3
+30/03/2019,Kilmarnock,Hamilton,5,0,H,1,0,H,14,2,7,1
+30/03/2019,Motherwell,St Johnstone,3,0,H,0,0,D,10,4,3,1
+30/03/2019,St Mirren,Dundee,2,1,H,1,1,D,7,7,4,3
+31/03/2019,Celtic,Rangers,2,1,H,1,0,H,12,6,7,1
+03/04/2019,Aberdeen,Motherwell,3,1,H,1,1,D,16,2,7,1
+03/04/2019,Hibernian,Kilmarnock,0,0,D,0,0,D,5,9,2,5
+03/04/2019,Livingston,Hamilton,2,0,H,0,0,D,13,3,6,1
+03/04/2019,Rangers,Hearts,3,0,H,2,0,H,15,8,6,4
+03/04/2019,St Johnstone,Dundee,2,0,H,1,0,H,10,10,6,3
+03/04/2019,St Mirren,Celtic,0,2,A,0,1,A,4,18,1,6
+06/04/2019,Celtic,Livingston,0,0,D,0,0,D,18,3,11,1
+06/04/2019,Dundee,Aberdeen,0,2,A,0,0,D,6,17,1,7
+06/04/2019,Hamilton,St Mirren,1,1,D,0,0,D,13,11,6,1
+06/04/2019,Hearts,Hibernian,1,2,A,1,1,D,15,11,8,6
+06/04/2019,Kilmarnock,St Johnstone,2,0,H,2,0,H,18,5,8,1
+07/04/2019,Motherwell,Rangers,0,3,A,0,2,A,9,8,1,4
+20/04/2019,Hamilton,Motherwell,1,1,D,0,1,A,13,9,4,3
+20/04/2019,Hearts,Rangers,1,3,A,0,2,A,11,12,6,5
+20/04/2019,Kilmarnock,Aberdeen,0,1,A,0,0,D,4,9,2,2
+20/04/2019,Livingston,St Mirren,1,3,A,1,1,D,9,14,2,9
+20/04/2019,St Johnstone,Dundee,2,0,H,0,0,D,12,7,8,2
+21/04/2019,Hibernian,Celtic,0,0,D,0,0,D,13,20,3,6
+27/04/2019,Celtic,Kilmarnock,1,0,H,0,0,D,27,11,6,6
+27/04/2019,Hamilton,Livingston,3,3,D,1,0,H,15,8,7,4
+27/04/2019,Motherwell,Dundee,4,3,H,2,2,D,17,11,8,6
+27/04/2019,St Mirren,St Johnstone,1,1,D,0,0,D,9,4,3,1
+28/04/2019,Hibernian,Hearts,1,1,D,0,0,D,9,5,4,4
+28/04/2019,Rangers,Aberdeen,2,0,H,0,0,D,16,4,6,1
+04/05/2019,Aberdeen,Celtic,0,3,A,0,1,A,12,12,3,7
+04/05/2019,Dundee,Hamilton,0,1,A,0,0,D,8,13,2,5
+04/05/2019,Hearts,Kilmarnock,0,1,A,0,0,D,10,10,2,5
+04/05/2019,Motherwell,St Mirren,1,1,D,0,0,D,9,10,4,5
+04/05/2019,St Johnstone,Livingston,1,1,D,1,0,H,8,10,3,4
+05/05/2019,Rangers,Hibernian,1,0,H,1,0,H,17,5,7,1
+10/05/2019,Aberdeen,Hearts,2,1,H,0,0,D,13,6,4,4
+11/05/2019,Kilmarnock,Hibernian,1,0,H,1,0,H,15,6,5,3
+11/05/2019,Livingston,Dundee,0,1,A,0,1,A,13,5,4,4
+11/05/2019,St Johnstone,Motherwell,2,0,H,1,0,H,10,5,5,1
+12/05/2019,Rangers,Celtic,2,0,H,1,0,H,11,3,5,1
+13/05/2019,St Mirren,Hamilton,2,0,H,0,0,D,20,7,7,2
+18/05/2019,Dundee,St Mirren,2,3,A,1,0,H,4,12,3,6
+18/05/2019,Hamilton,St Johnstone,2,0,H,1,0,H,13,7,6,0
+18/05/2019,Motherwell,Livingston,3,2,H,3,0,H,14,19,6,8
+19/05/2019,Celtic,Hearts,2,1,H,1,1,D,16,4,7,3
+19/05/2019,Hibernian,Aberdeen,1,2,A,1,1,D,15,14,8,7
+19/05/2019,Kilmarnock,Rangers,2,1,H,1,0,H,9,7,4,3

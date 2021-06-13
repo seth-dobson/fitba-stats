@@ -3,6 +3,7 @@
 
 import pandas as pd
 
+
 seasons = [
     
     '2021',
@@ -23,11 +24,12 @@ seasons = [
     '0506',
     '0405',
     '0304',
-    '0203',
-    '0102',
-    '0001'
+    '0102'
     
 ]
+
+#seasons = ['0001']
+#seasons = ['0203']
 
 columns = [
     
@@ -55,10 +57,12 @@ for season in seasons:
         
         engine = 'python',
         encoding = 'iso-8859-1',
+        #skiprows = [86],
+        #skiprows = [119],
         usecols = columns
-        
     )
-
+    
+    
     df.to_csv(
         
         f'~/fitba-stats/dbt/data/src_football_data_scottish_premiership_match_results_{season}.csv', 

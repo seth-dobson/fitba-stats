@@ -2,6 +2,8 @@
 
 ## Source: `football-data`
 
+Football-Data is a betting website that compiles match results from the BBC and shares them as CSV files.
+
 ### Scottish Premiership
 
 Missing data for two matches:

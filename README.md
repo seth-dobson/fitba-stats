@@ -1,20 +1,18 @@
 # Fitba Stats
 
-Welcome! This an open-source analytics engineering project for fans of European football (soccer), and sports data nerds in general.
+This an analytics engineering side project focusing on European league football (soccer).
 
-The focus is on basic team stats (goals, shots, and shots on target), and related metrics, for domestic league football. 
-
-**Sorry no xG.**
+**Sorry no xG.** (That's not the point of this.)
 
 ## League coverage
 
 Only the Scottish Premiership is included so far (I'm a Celtic fan).
 
-However, I plan to add England, Spain, Italy, and Germany next.
+However, I plan to add England, Spain, Italy, and Germany in the future.
 
 ## Data source(s)
 
-[football-data.co.uk](http://football-data.co.uk/)
+The main source of data is [football-data.co.uk](http://football-data.co.uk/).
 
 [Click here](https://github.com/seth-dobson/fitba-stats/blob/master/dbt/data/data_notes.md) for data notes.
 

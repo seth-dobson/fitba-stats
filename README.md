@@ -1,14 +1,18 @@
 # Fitba Stats
 
-Open-source analytics engineering project for fans of European football and sports data nerds in general.
+... is an open-source analytics engineering project for fans of European football, and sports data nerds in general.
 
-Focus is on basic team stats (goals, shots, and shots on target) and related metrics. Sorry no xG.
+The project focuses on basic team stats (goals, shots, and shots on target), and related metrics. 
+
+Sorry no xG.
 
 ## League coverage
 
-Only Scottish Premiership so far (I'm a Celtic fan). 21 seasons going back to 2000/01.
+Only the Scottish Premiership is included so far (I'm a Celtic fan).
 
-## Data sources
+I plan to add England, Spain, Italy, and Germany next.
+
+## Data source(s)
 
 [football-data.co.uk](http://football-data.co.uk/)
 
@@ -16,6 +20,14 @@ Only Scottish Premiership so far (I'm a Celtic fan). 21 seasons going back to 20
 
 ## Want to contribute?
 
-Just fork this repo, makes changes, and submit a pull request. 
+Just fork this repo, make changes, and submit a pull request. 
 
-This is a great way for football fans with an interest in data analytics to develop some core data engineering skills (unix, SQL, python, git, and dbt).
+This is a great way for football fans with an interest in data analytics to develop some core data engineering skills.
+
+Fitba Stats is built using the following tools:
+
+- Unix 
+- SQL 
+- python
+- git
+- dbt

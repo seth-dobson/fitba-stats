@@ -1,16 +1,16 @@
 # Fitba Stats
 
-... is an open-source analytics engineering project for fans of European football, and sports data nerds in general.
+Welcome! This an open-source analytics engineering project for fans of European football (soccer), and sports data nerds in general.
 
-The project focuses on basic team stats (goals, shots, and shots on target), and related metrics. 
+The focus is on basic team stats (goals, shots, and shots on target), and related metrics, for domestic league football. 
 
-Sorry no xG.
+**Sorry no xG.**
 
 ## League coverage
 
 Only the Scottish Premiership is included so far (I'm a Celtic fan).
 
-I plan to add England, Spain, Italy, and Germany next.
+However, I plan to add England, Spain, Italy, and Germany next.
 
 ## Data source(s)
 

@@ -1,4 +1,4 @@
-# Data notes
+# Data Notes
 
 ## Source: `football-data`
 

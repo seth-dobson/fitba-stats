@@ -1,8 +1,9 @@
-# script to get match results from football-data.co.uk
-# run in terminal using `python get_football_data.py`
+'''
+script to get match results from football-data.co.uk
+run in terminal using `python get_football_data.py`
+'''
 
 import pandas as pd
-
 
 seasons = [
     
@@ -27,9 +28,6 @@ seasons = [
     '0102'
     
 ]
-
-#seasons = ['0001']
-#seasons = ['0203']
 
 columns = [
     
@@ -57,11 +55,14 @@ for season in seasons:
         
         engine = 'python',
         encoding = 'iso-8859-1',
-        #skiprows = [86],
-        #skiprows = [119],
         usecols = columns
+    
     )
     
+    df['HS'] = pd.to_numeric(df['HS'], errors = 'coerce').astype('Int64')
+    df['AS'] = pd.to_numeric(df['AS'], errors = 'coerce').astype('Int64')
+    df['HST'] = pd.to_numeric(df['HST'], errors = 'coerce').astype('Int64')
+    df['AST'] = pd.to_numeric(df['AST'], errors = 'coerce').astype('Int64')
     
     df.to_csv(
         

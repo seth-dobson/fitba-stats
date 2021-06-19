@@ -1,5 +1,5 @@
 '''
-script to get match results from football-data.co.uk
+script to get Scottish Premiership match stats from football-data.co.uk
 run in terminal using `python get_football_data.py`
 '''
 
@@ -25,7 +25,9 @@ seasons = [
     '0506',
     '0405',
     '0304',
-    '0102'
+    '0203',
+    '0102',
+    '0001
     
 ]
 
@@ -43,9 +45,42 @@ columns = [
     'HS',
     'AS',
     'HST',
-    'AST'
+    'AST',
+    'HF',
+    'AF',
+    'HC',
+    'AC',
+    'HY',
+    'AY',
+    'HR',
+    'AR'
     
 ]
+
+int_cols = [
+    
+    'FTHG',
+    'FTAG',
+    'HTHG',
+    'HTAG',
+    'HS',
+    'AS',
+    'HST',
+    'AST',
+    'HF',
+    'AF',
+    'HC',
+    'AC',
+    'HY',
+    'AY',
+    'HR',
+    'AR'
+
+]
+
+def coerce_int64(column):
+    
+    df[column] = pd.to_numeric(df[column], errors = 'coerce').astype('Int64')
 
 for season in seasons:
 
@@ -59,10 +94,9 @@ for season in seasons:
     
     )
     
-    df['HS'] = pd.to_numeric(df['HS'], errors = 'coerce').astype('Int64')
-    df['AS'] = pd.to_numeric(df['AS'], errors = 'coerce').astype('Int64')
-    df['HST'] = pd.to_numeric(df['HST'], errors = 'coerce').astype('Int64')
-    df['AST'] = pd.to_numeric(df['AST'], errors = 'coerce').astype('Int64')
+    for column in int_cols:
+        
+        coerce_int64(column)
     
     df.to_csv(
         

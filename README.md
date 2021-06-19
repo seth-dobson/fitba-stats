@@ -1,8 +1,6 @@
 # Fitba Stats
 
-This an analytics engineering side project focusing on European league football (soccer).
-
-**Sorry no xG.** (That's not the point of this.)
+This a data engineering side project focusing on European league football (soccer) stats.
 
 ## League coverage
 
@@ -14,7 +12,7 @@ However, I plan to add England, Spain, Italy, and Germany in the future.
 
 The main source of data is [football-data.co.uk](http://football-data.co.uk/).
 
-[Click here](https://github.com/seth-dobson/fitba-stats/blob/master/dbt/data/data_notes.md) for data notes.
+Football-Data is a betting website that compiles match results from the BBC and shares them as CSV files.
 
 ## Want to contribute?
 

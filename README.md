@@ -19,6 +19,3 @@ However, I plan to add lower leagues in the future.
 ## Data source(s)
 
 The main source of data is [football-data.co.uk](http://football-data.co.uk/).
-
-Football-Data is a betting website that compiles match results from the BBC and shares them for free as CSV files on their website.
-

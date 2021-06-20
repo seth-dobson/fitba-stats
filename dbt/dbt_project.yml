@@ -40,3 +40,7 @@ models:
     staging:
       base:
         +materialized: ephemeral
+
+seeds:
+  fitba_stats:
+    schema: seed_data

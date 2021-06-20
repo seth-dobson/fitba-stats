@@ -100,7 +100,7 @@ for season in seasons:
     
     df.to_csv(
         
-        f'~/fitba-stats/dbt/data/src_football_data_scottish_premiership_match_results_{season}.csv', 
+        f'~/fitba-stats/dbt/data/seed_football_data_scottish_premiership_match_results_{season}.csv', 
         
         index = False, 
         encoding = 'utf-8'

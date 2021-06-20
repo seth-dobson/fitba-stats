@@ -1,0 +1,27 @@
+version: 2
+
+sources:
+  - name: scottish_premiership
+    tables:
+      - name: 2000-01
+      - name: 2001-02
+      - name: 2002-03
+      - name: 2003-04
+      - name: 2004-05
+      - name: 2005-06
+      - name: 2006-07
+      - name: 2007-08
+      - name: 2008-09
+      - name: 2009-10
+      - name: 2010-11
+      - name: 2011-12
+      - name: 2012-13
+      - name: 2013-14
+      - name: 2014-15
+      - name: 2015-16
+      - name: 2016-17
+      - name: 2017-18
+      - name: 2018-19
+      - name: 2019-20
+      - name: 2020-21
+      

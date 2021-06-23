@@ -1,4 +1,4 @@
-Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,away_shots,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
 01/08/2020,Aberdeen,Rangers,0,1,A,0,1,A,4,15,0,4,18,14,2,6,1,0,1,0
 01/08/2020,Dundee United,St Johnstone,1,1,D,1,0,H,16,9,4,4,12,8,3,3,1,2,0,1
 01/08/2020,Hibernian,Kilmarnock,2,1,H,2,1,H,11,12,3,2,13,12,5,4,1,1,0,0

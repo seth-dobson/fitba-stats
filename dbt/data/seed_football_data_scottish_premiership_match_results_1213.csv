@@ -1,4 +1,4 @@
-Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,away_shots,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
 04/08/12,Celtic,Aberdeen,1,0,H,0,0,D,9,5,5,2,5,9,6,4,0,1,0,0
 04/08/12,Hearts,St Johnstone,2,0,H,1,0,H,18,5,7,3,12,10,6,6,2,1,0,1
 04/08/12,Kilmarnock,Dundee,0,0,D,0,0,D,16,4,8,1,9,16,6,1,0,2,0,0

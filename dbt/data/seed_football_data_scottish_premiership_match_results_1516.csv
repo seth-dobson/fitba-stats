@@ -1,4 +1,4 @@
-Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,away_shots,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
 01/08/15,Celtic,Ross County,2,0,H,2,0,H,13,8,7,4,11,5,15,4,2,0,0,0
 01/08/15,Hamilton,Partick,0,0,D,0,0,D,13,4,7,3,12,11,3,1,2,0,0,1
 01/08/15,Inverness C,Motherwell,0,1,A,0,1,A,3,13,0,8,6,8,5,6,1,1,0,0

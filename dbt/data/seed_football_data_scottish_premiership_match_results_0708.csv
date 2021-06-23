@@ -1,4 +1,4 @@
-Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,away_shots,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
 04/08/07,Dundee United,Aberdeen,1,0,H,0,0,D,8,3,3,2,18,17,8,4,3,3,1,0
 04/08/07,Gretna,Falkirk,0,4,A,0,2,A,10,14,4,9,14,13,7,4,3,1,0,0
 04/08/07,Inverness C,Rangers,0,3,A,0,1,A,3,16,3,11,7,8,4,7,1,2,0,0

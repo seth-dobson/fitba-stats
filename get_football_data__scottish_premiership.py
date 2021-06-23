@@ -98,6 +98,8 @@ for season in seasons:
         
         coerce_int64(column)
     
+    df.rename(columns = {'AS': 'away_shots'}, inplace = True)
+    
     df.to_csv(
         
         f'~/fitba-stats/dbt/data/seed_football_data_scottish_premiership_match_results_{season}.csv', 

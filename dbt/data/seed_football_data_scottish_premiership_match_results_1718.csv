@@ -1,4 +1,4 @@
-Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,away_shots,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
 05/08/17,Celtic,Hearts,4,1,H,1,0,H,17,4,7,3,9,21,9,5,1,3,0,0
 05/08/17,Dundee,Ross County,1,2,A,0,1,A,13,14,6,5,14,8,15,5,1,2,0,0
 05/08/17,Hibernian,Partick,3,1,H,2,1,H,12,6,6,3,13,19,3,4,2,3,0,0

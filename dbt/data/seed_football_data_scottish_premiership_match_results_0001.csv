@@ -1,4 +1,4 @@
-Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HC,AC,HF,AF,HY,AY,HR,AR
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,away_shots,HST,AST,HC,AC,HF,AF,HY,AY,HR,AR
 29/07/00,Dunfermline,Aberdeen,0,0,D,0,0,D,23,10,8,0,6,6,9,10,1,3,0,1
 29/07/00,Motherwell,Dundee,0,2,A,0,1,A,8,7,5,4,5,4,14,13,2,2,0,1
 29/07/00,Rangers,St Johnstone,2,1,H,0,1,A,12,5,8,2,4,2,8,11,2,0,0,0

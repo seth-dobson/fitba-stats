@@ -1,4 +1,4 @@
-Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,away_shots,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
 02/08/13,Partick,Dundee United,0,0,D,0,0,D,10,10,3,6,3,6,10,6,3,1,0,0
 03/08/13,Aberdeen,Kilmarnock,2,1,H,1,0,H,4,3,2,0,9,4,6,1,1,2,0,0
 03/08/13,Celtic,Ross County,2,1,H,1,1,D,25,5,9,1,7,16,8,5,0,1,0,0

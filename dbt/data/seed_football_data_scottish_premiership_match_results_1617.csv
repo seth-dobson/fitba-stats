@@ -1,4 +1,4 @@
-Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,away_shots,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
 06/08/16,Kilmarnock,Motherwell,1,2,A,0,1,A,9,7,8,7,7,8,5,3,1,3,0,0
 06/08/16,Partick,Inverness C,2,0,H,1,0,H,6,8,3,2,20,10,2,5,2,1,0,0
 06/08/16,Rangers,Hamilton,1,1,D,0,1,A,20,9,4,2,7,19,10,4,0,5,0,0

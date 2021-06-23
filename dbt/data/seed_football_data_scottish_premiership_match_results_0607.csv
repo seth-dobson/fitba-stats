@@ -1,4 +1,4 @@
-Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,HS,away_shots,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
 29/07/06,Celtic,Kilmarnock,4,1,H,2,0,H,18,8,9,5,8,15,4,3,1,1,0,0
 29/07/06,Dundee United,Falkirk,1,2,A,1,1,D,10,15,6,5,10,10,9,6,3,3,0,0
 29/07/06,Dunfermline,Hearts,1,2,A,0,1,A,9,10,4,5,24,12,9,4,5,3,1,0

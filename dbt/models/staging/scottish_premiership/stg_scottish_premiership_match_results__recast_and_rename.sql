@@ -1,3 +1,12 @@
+--set recent seasons to accomdate new date format
+{% set recent_seasons = (
+    
+    '2018-19',
+    '2019-20',
+    '2020-21'
+
+) %}
+
 with
 
 scottish_premiership as (
@@ -6,14 +15,32 @@ scottish_premiership as (
 
 ),
 
+date_cleaned as (
+
+    select
+        *,
+        parse_date('%d/%m/%y', Date) as clean_date
+    
+    from scottish_premiership
+    where season not in {{recent_seasons}}
+    
+    union all
+    
+    select
+        *,
+        parse_date('%d/%m/%Y', Date) as clean_date
+    
+    from scottish_premiership
+    where season in {{recent_seasons}}
+    
+),
+
 final_cte as (
 
     select
         match_id,
         season,
-    
-        parse_date('%d/%m/%Y', Date) as match_played_on,
-        
+        clean_date as match_played_on,
         HomeTeam as home_team,
         AwayTeam as away_team,
         FTR as result_at_full_time,
@@ -35,7 +62,7 @@ final_cte as (
         HR as home_red_cards,
         AR as away_red_cards
     
-    from scottish_premiership
+    from date_cleaned
 
 )
 

@@ -32,6 +32,14 @@ clean-targets:         # directories to be removed by `dbt clean`
 # as tables. These settings can be overridden in the individual model files
 # using the `{{ config(...) }}` macro.
 
+models:
+  fitba_stats:
+    +materialized: table
+    marts:
+      +schema: marts
+    staging:
+      +schema: staging
+
 seeds:
   fitba_stats:
     schema: seed_data

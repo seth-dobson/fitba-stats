@@ -29,7 +29,7 @@
   
   select 
       *,
-      '{{season}}' as season,
+      '{{ season }}' as season,
       {{ dbt_utils.surrogate_key(['Date', 'HomeTeam', 'AwayTeam']) }} as match_id
   
   from {{ source('scottish_premiership', season) }}

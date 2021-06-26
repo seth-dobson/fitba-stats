@@ -9,8 +9,8 @@ final_cte as (
 
     select
         league,
-        season,
         team,
+        season,
         match_number,
         match_played_on,
         opponent,
@@ -24,7 +24,8 @@ final_cte as (
         shots_for,
         shots_against,
         shots_on_target_for,
-        shots_on_target_against
+        shots_on_target_against,
+        match_id
     
     from match_stats
     

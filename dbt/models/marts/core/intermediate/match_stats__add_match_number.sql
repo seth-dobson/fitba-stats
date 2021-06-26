@@ -15,7 +15,6 @@ final_cte as (
         row_number() over(partition by league, team, season order by match_played_on asc) as match_number
     
     from unioned
-    order by league, team, season, match_played_on
     
 )
 

@@ -16,6 +16,7 @@ final_cte as (
         opponent,
         location,
         result_at_full_time,
+        points_earned,
         goals_for_at_full_time,
         goals_against_at_full_time,
         result_at_half_time,

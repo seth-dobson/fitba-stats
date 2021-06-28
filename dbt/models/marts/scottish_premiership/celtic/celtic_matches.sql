@@ -1,16 +1,17 @@
 with
 
-match_stats as (
+celtic_matches as (
+
+    select * 
     
-    select * from {{ ref('match_stats__add_match_number_and_points') }}
+    from {{ ref('fct_matches') }} 
+    where team = 'Celtic'
     
 ),
 
 final_cte as (
 
     select
-        league,
-        team,
         season,
         match,
         date,
@@ -29,11 +30,11 @@ final_cte as (
         SoTA,
         match_id
     
-    from match_stats
-    
+    from celtic_matches
+
 )
 
 select * 
 
-from final_cte
-order by league, team, season, match
+from final_cte 
+order by season, match

@@ -1,6 +1,6 @@
 '''
-script to get Scottish Premiership match stats from football-data.co.uk
-run in terminal using `python get_football_data.py`
+script to get Scottish Premiership match stats 
+from football-data.co.uk for seasons 2000-01 to 2020-21
 '''
 
 import pandas as pd

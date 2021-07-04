@@ -2,7 +2,19 @@ with
 
 celtic_matches as (
 
-    select * from {{ ref('celtic_matches') }}
+    select * 
+    
+    from {{ ref('celtic_matches') }}
+    where season in (
+        '2020-21',
+        '2019-20',
+        '2018-19',
+        '2017-18',
+        '2016-17',
+        '2015-16',
+        '2014-15',
+        '2013-14'
+    )
     
 ),
 
@@ -11,21 +23,27 @@ final_cte as (
     select
         season,
         max(match) as MP,
-        round(avg(points), 1) as points,
+        sum(points) as points,
+        avg(points) as PPG,
         
-        round(avg(SF), 1) as SF,
-        round(avg(SA), 1) as SA,
-        round(avg(SoTF), 1) as SoTF,
-        round(avg(SoTA), 1) as SoTA,
-        round(avg(FTGF), 1) as GF,
-        round(avg(FTGA), 1) as GA,
+        avg(SF) as SF,
+        avg(SA) as SA,
+        avg(SoTF) as SoTF,
+        avg(SoTA) as SoTA,
+        avg(FTGF) as GF,
+        avg(FTGA) as GA,
 
-        round(100 * (sum(SF) / (sum(SF) + sum(SA))), 1) as shot_share,
-        round(100 * (sum(SoTF) / (sum(SoTF) + sum(SoTA))), 1) as SoT_share,
-        round(100 * (sum(FTGF) / (sum(FTGF) + sum(FTGA))), 1) as goal_share,
-        round(100 * (sum(FTGF) / sum(SoTF)), 1) as score_pct,
-        round(100 * (1 - (sum(FTGA) / sum(SoTA))), 1) as save_pct,
-        round(100 * ((sum(FTGF) / sum(SoTF)) + (1 - (sum(FTGA) / sum(SoTA)))), 1) as PDO
+        100 * (sum(SF) / (sum(SF) + sum(SA))) as TSR,
+        100 * (sum(SoTF) / (sum(SoTF) + sum(SoTA))) as SoTR,
+        100 * (sum(FTGF) / (sum(FTGF) + sum(FTGA))) as GR,
+                                  
+        100 * (sum(SoTF) / sum(SF)) as SoTF_rate,
+        100 * (1 - (sum(SoTA) / sum(SA))) as SoTA_rate,
+        100 * ((sum(SoTF) / sum(SF)) + (1 - (sum(SoTA) / sum(SA)))) as SoT_rate_sum,
+                                  
+        100 * (sum(FTGF) / sum(SoTF)) as score_rate,
+        100 * (1 - (sum(FTGA) / sum(SoTA))) as save_rate,
+        100 * ((sum(FTGF) / sum(SoTF)) + (1 - (sum(FTGA) / sum(SoTA)))) as PDO
     
     from celtic_matches
     

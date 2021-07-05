@@ -34,7 +34,6 @@ clean-targets:         # directories to be removed by `dbt clean`
 
 models:
   fitba_stats:
-    +materialized: table
     marts:
       +schema: marts
     staging:
